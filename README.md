@@ -6,7 +6,10 @@ Esta aplicação foi desenvolvida como parte de um estudo sobre o framework Scra
 ## Funcionalidade
 A aplicação é composta por duas partes distintas, a primeira parte é responsável por coletar as URL's referentes a cada perfil de dinosauro catalogado no site do museu.
 
+![Url2](https://user-images.githubusercontent.com/16140969/161632284-5eeb9711-a7c3-4dd8-997f-009f9f3a9d34.gif)
+
 Com base nas URL's obtidas, a segunda parte é responsável por coletar e armazenar em um arquivo JSON, às informações de cada dinossauro identificado.
+
 
 ## Instalação
 
