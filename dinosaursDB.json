@@ -1,0 +1,5660 @@
+{
+  "Dinosaur": [
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "South Africa"
+      ],
+      "length": null,
+      "live": "Early Jurassic, 199-189 million years ago",
+      "name": "Aardonyx",
+      "nameMeaning": "'Earth claw'",
+      "namedBy": "Yates, Bonnan, Neveling, Chinsamy and Blackbeard 2010 (2009)",
+      "pronunciation": "ar-don-ix",
+      "species": "celestae",
+      "taxonomy": "Dinosauria, Saurischia, Sauropodomorpha, Prosauropoda, Anchisauria",
+      "type": " sauropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "carnivorous"
+      ],
+      "foundIn": [
+        "Argentina"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 74-70 million years ago",
+      "name": "Abelisaurus",
+      "nameMeaning": "'Abel's lizard'",
+      "namedBy": "Bonaparte and Novas (1985)",
+      "pronunciation": "ah-BEEL-ee-sore-us",
+      "species": "comahuensis",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Ceratosauria, Neoceratosauria, Abelisauridae, Abelisaurinae",
+      "type": " large theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "USA"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 83-70 million years ago",
+      "name": "Achelousaurus",
+      "nameMeaning": "'Achelous' lizard'",
+      "namedBy": "Sampson  (1995)",
+      "pronunciation": "ah-KEL-oo-SORE-us",
+      "species": "horneri",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Cerapoda, Marginocephalia, Ceratopsia, Neoceratopsia, Coronosauria, Ceratopsidae, Centrosaurinae",
+      "type": " ceratopsian",
+      "weight": null
+    },
+    {
+      "diet": [
+        "carnivorous"
+      ],
+      "foundIn": [
+        "Mongolia"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 99-84 million years ago",
+      "name": "Achillobator",
+      "nameMeaning": "'Achilles hero'",
+      "namedBy": "Perle, Norell and Clark (1999)",
+      "pronunciation": "a-kil-oh-bah-tor",
+      "species": "giganteus",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Coelurosauria, Tyrannoraptora, Maniraptoriformes, Maniraptora, Paraves, Eumaniraptora, Dromaeosauridae",
+      "type": " large theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "carnivorous"
+      ],
+      "foundIn": [
+        "Canada",
+        "USA"
+      ],
+      "length": null,
+      "live": "Early Cretaceous, 115-105 million years ago",
+      "name": "Acrocanthosaurus",
+      "nameMeaning": "'high-spined lizard'",
+      "namedBy": "Stovall and Langston (1950)",
+      "pronunciation": "ah-kroh-kan-tho-SORE-us",
+      "species": "atokensis",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Carnosauria, Allosauroidea, Carcharodontosauridae",
+      "type": " large theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "Egypt"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 98-93 million years ago",
+      "name": "Aegyptosaurus",
+      "nameMeaning": "'Egyptian lizard'",
+      "namedBy": "Stromer (1932)",
+      "pronunciation": "ee-JIP-toe-SORE-us",
+      "species": "baharijensis",
+      "taxonomy": "Dinosauria, Saurischia, Sauropodomorpha, Sauropoda, Eusauropoda, Neosauropoda, Macronaria, Camarasauromorpha, Titanosauriformes, Titanosauria",
+      "type": " sauropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "carnivorous"
+      ],
+      "foundIn": [
+        "Niger"
+      ],
+      "length": null,
+      "live": "Early Cretaceous, 132-121 million years ago",
+      "name": "Afrovenator",
+      "nameMeaning": "'African hunter'",
+      "namedBy": "Sereno, Wilson, Larsson, Dutheil and Sues (1944)",
+      "pronunciation": "aff-ROW-ven-ah-tor",
+      "species": "abakensis",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Spinosauroidea, Megalosauridae, Eustreptospondylinae",
+      "type": " large theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "China"
+      ],
+      "length": null,
+      "live": "Late Jurassic, 169-159 million years ago",
+      "name": "Agilisaurus",
+      "nameMeaning": "'agile lizard'",
+      "namedBy": "Peng (1990)",
+      "pronunciation": "aj-i-li-sore-us",
+      "species": "louderbacki",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Cerapoda, Ornithopoda, Euornithopoda",
+      "type": " euornithopod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "USA"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 70-65 million years ago",
+      "name": "Alamosaurus",
+      "nameMeaning": "'Alamo lizard'",
+      "namedBy": "Gilmore (1922)",
+      "pronunciation": "ah-la-mow-SORE-us",
+      "species": "sanjuanensis",
+      "taxonomy": "Dinosauria, Saurischia, Sauropodomorpha, Sauropoda, Eusauropoda, Neosauropoda, Macronaria, Camarasauromorpha, Titanosauriformes, Titanosauria, Lithostrotia",
+      "type": " sauropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "Canada",
+        "USA"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 80-75 million years ago",
+      "name": "Albertaceratops",
+      "nameMeaning": "'Alberta horned face'",
+      "namedBy": "Ryan 2007",
+      "pronunciation": "al-bert-a-serra-tops",
+      "species": "nesmoi",
+      "taxonomy": "Dinosauria, Ornithischia",
+      "type": " ceratopsian",
+      "weight": null
+    },
+    {
+      "diet": [
+        "carnivorous"
+      ],
+      "foundIn": [
+        "Canada"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 76-74 million years ago",
+      "name": "Albertosaurus",
+      "nameMeaning": "'Alberta lizard'",
+      "namedBy": "Lamb (1914)",
+      "pronunciation": "al-BERT-oh-saw-russ",
+      "species": "libratus",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Coelurosauria, Tyrannoraptora, Tyrannosauroidea, Tyrannosauridae, Albertosaurinae",
+      "type": " large theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "carnivorous"
+      ],
+      "foundIn": [
+        "China",
+        "Mongolia"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 90-70 million years ago",
+      "name": "Alectrosaurus",
+      "nameMeaning": "'eagle lizard'",
+      "namedBy": "Gilmore (1933)",
+      "pronunciation": "ah-LEK-tro-sore-us",
+      "species": "olseni",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Coelurosauria, Tyrannoraptora, Tyrannosauroidea",
+      "type": " large theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "carnivorous"
+      ],
+      "foundIn": [
+        "Mongolia"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 71-65 million years ago",
+      "name": "Alioramus",
+      "nameMeaning": "'other [evolutionary] branch'",
+      "namedBy": "Kurzanov (1976)",
+      "pronunciation": "al-ee-oh-ray-mus",
+      "species": "remotus",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Coelurosauria, Tyrannoraptora, Tyrannosauroidea",
+      "type": " large theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "carnivorous"
+      ],
+      "foundIn": [
+        "Portugal",
+        "USA"
+      ],
+      "length": null,
+      "live": "Late Jurassic, 156-144 million years ago",
+      "name": "Allosaurus",
+      "nameMeaning": "'other lizard'",
+      "namedBy": "Marsh (1877)",
+      "pronunciation": "AL-oh-saw-russ",
+      "species": "fragilis",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Carnosauria, Allosauroidea, Allosauridae",
+      "type": " large theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "carnivorous"
+      ],
+      "foundIn": [
+        "Argentina"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 89-85 million years ago",
+      "name": "Alvarezsaurus",
+      "nameMeaning": "'Alvarez's lizard'",
+      "namedBy": "Bonaparte (1991)",
+      "pronunciation": "al-var-rez-SORE-us",
+      "species": "calvoi",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Coelurosauria, Tyrannoraptora, Maniraptoriformes, Maniraptora, Alvarezsauridae",
+      "type": " small theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "Argentina"
+      ],
+      "length": null,
+      "live": "Early Cretaceous, 132-127 million years ago",
+      "name": "Amargasaurus",
+      "nameMeaning": "'Amarga lizard'",
+      "namedBy": "Salgado and Bonaparte (1991)",
+      "pronunciation": "A-MARG-oh-sore-us",
+      "species": "cazaui",
+      "taxonomy": "Dinosauria, Saurischia, Sauropodomorpha, Sauropoda, Eusauropoda, Neosauropoda, Diplodocoidea, Dicraeosauridae",
+      "type": " sauropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "USA"
+      ],
+      "length": null,
+      "live": "Early Jurassic, 195-180 million years ago",
+      "name": "Ammosaurus",
+      "nameMeaning": "'sand lizard'",
+      "namedBy": "Marsh (1891)",
+      "pronunciation": "ah-moh-SORE-us",
+      "species": "major",
+      "taxonomy": "Dinosauria, Saurischia, Sauropodomorpha, Prosauropoda, Anchisauria, Anchisauridae",
+      "type": " sauropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "France"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 71-65 million years ago",
+      "name": "Ampelosaurus",
+      "nameMeaning": "'vineyard lizard'",
+      "namedBy": "Le Loeuff (1995)",
+      "pronunciation": "am-pel-oh-sore-us",
+      "species": "atacis",
+      "taxonomy": "Dinosauria, Saurischia, Sauropodomorpha, Sauropoda, Eusauropoda, Neosauropoda, Macronaria, Camarasauromorpha, Titanosauriformes, Titanosauria, Lithostrotia",
+      "type": " sauropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "Argentina"
+      ],
+      "length": null,
+      "live": "Mid Jurassic, 177-169 million years ago",
+      "name": "Amygdalodon",
+      "nameMeaning": "'almond tooth'",
+      "namedBy": "Cabrera (1947)",
+      "pronunciation": "am-ig-dal-oh-don",
+      "species": "patagonicus",
+      "taxonomy": "Dinosauria, Saurischia, Sauropodomorpha, Sauropoda, Eusauropoda",
+      "type": " sauropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "Canada"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 74-70 million years ago",
+      "name": "Anchiceratops",
+      "nameMeaning": "'near horned lizard'",
+      "namedBy": "Brown (1914)",
+      "pronunciation": "an-key-SERRA-tops",
+      "species": "ornatus",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Cerapoda, Marginocephalia, Ceratopsia, Neoceratopsia, Coronosauria, Ceratopsidae, Chasmosaurinae",
+      "type": " ceratopsian",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "USA"
+      ],
+      "length": null,
+      "live": "Early Jurassic, 190 million years ago",
+      "name": "Anchisaurus",
+      "nameMeaning": "'near lizard'",
+      "namedBy": "Marsh (1885)",
+      "pronunciation": "ANK-ee-sore-us",
+      "species": "polyzelous",
+      "taxonomy": "Dinosauria, Saurischia, Sauropodomorpha, Prosauropoda, Anchisauria, Anchisauridae",
+      "type": " sauropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "Canada",
+        "USA"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 74-67 million years ago",
+      "name": "Ankylosaurus",
+      "nameMeaning": "'stiff lizard'",
+      "namedBy": "Brown (1908)",
+      "pronunciation": "an-KIE-loh-sore-us",
+      "species": "magniventris",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Thyreophora, Ankylosauromorpha, Ankylosauria, Ankylosauridae",
+      "type": " armoured dinosaur",
+      "weight": null
+    },
+    {
+      "diet": [
+        "carnivorous"
+      ],
+      "foundIn": [
+        "Mongolia"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 84-65 million years ago",
+      "name": "Anserimimus",
+      "nameMeaning": "'goose mimic'",
+      "namedBy": "Barsbold (1988)",
+      "pronunciation": "ANN-ser-ih-mee-muss",
+      "species": "planinychus",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Coelurosauria, Tyrannoraptora, Maniraptoriformes, Ornithomimosauria, Ornithomimidae",
+      "type": " large theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "Argentina",
+        "Chile",
+        "Uruguay"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 84-65 million years ago",
+      "name": "Antarctosaurus",
+      "nameMeaning": "'non-northern lizard'",
+      "namedBy": "von Huene (1929)",
+      "pronunciation": "Ant-ARK-toe-sore-us",
+      "species": "wichmannianus",
+      "taxonomy": "Dinosauria, Saurischia, Sauropodomorpha, Sauropoda, Eusauropoda, Neosauropoda, Macronaria, Camarasauromorpha, Titanosauriformes, Titanosauria, Lithostrotia",
+      "type": " sauropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "USA"
+      ],
+      "length": null,
+      "live": "Late Jurassic, 154-145 million years ago",
+      "name": "Apatosaurus",
+      "nameMeaning": "'deceptive lizard'",
+      "namedBy": "Marsh (1877)",
+      "pronunciation": "ah-PAT-oh-sore-us",
+      "species": "ajax",
+      "taxonomy": "Dinosauria, Saurischia, Sauropodomorpha, Sauropoda, Eusauropoda, Neosauropoda, Diplodocoidea, Diplodocidae",
+      "type": " sauropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "Spain"
+      ],
+      "length": null,
+      "live": "Early Cretaceous, 132-121 million years ago",
+      "name": "Aragosaurus",
+      "nameMeaning": "'Arag\u00f3n lizard'",
+      "namedBy": "Sanz, Buscalioni, Casanovas and Sanaf\u00e9 (1987)",
+      "pronunciation": "ahr-ah-go-sore-us",
+      "species": "ischiadicus",
+      "taxonomy": "Dinosauria, Saurischia, Sauropodomorpha, Sauropoda, Eusauropoda",
+      "type": " sauropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "Kazakhstan"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 94-84 million years ago",
+      "name": "Aralosaurus",
+      "nameMeaning": "'Aral lizard'",
+      "namedBy": "Rozhdestvensky (1968)",
+      "pronunciation": "ar-al-oh-sore-us",
+      "species": "tuberiferus",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Cerapoda, Ornithopoda, Euornithopoda, Iguanadontia, Euiguanadontia, Dryomorpha, Ankylopollexia, Iguanodontoidea, Hadrosauridae, Euhadrosauria, Hadrosaurinae",
+      "type": " euornithopod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "China"
+      ],
+      "length": null,
+      "live": "Early Cretaceous, 121-99 million years ago",
+      "name": "Archaeoceratops",
+      "nameMeaning": "'ancient horned face'",
+      "namedBy": "Dong and Azuma (1987)",
+      "pronunciation": "ahr-kee-oh-serra-tops",
+      "species": "oshimai",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Cerapoda, Marginocephalia, Ceratopsia, Neoceratopsia",
+      "type": " ceratopsian",
+      "weight": null
+    },
+    {
+      "diet": [
+        "carnivorous"
+      ],
+      "foundIn": [
+        "Germany"
+      ],
+      "length": null,
+      "live": "Late Jurassic, 147 million years ago",
+      "name": "Archaeopteryx",
+      "nameMeaning": "'ancient wing'",
+      "namedBy": "Mayer (1861)",
+      "pronunciation": "ark-ee-OPT-er-ix",
+      "species": "lithographica",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Coelurosauria, Tyrannoraptora, Maniraptoriformes, Maniraptora, Paraves, Eumaniraptoria, Avialae, Archaeopterygidae",
+      "type": " small theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "carnivorous"
+      ],
+      "foundIn": [
+        "China",
+        "Uzbekistan"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 95-70 million years ago",
+      "name": "Archaeornithomimus",
+      "nameMeaning": "'ancient bird mimic'",
+      "namedBy": "Russell (1972)",
+      "pronunciation": "Ark-ee-orn-ith-oh-meem-us",
+      "species": "asiaticus",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Coelurosauria, Tyrannoraptora, Maniraptoriformes, Ornithomimosauria, Ornithomimidae",
+      "type": " small theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "Argentina"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 90 million years ago",
+      "name": "Argentinosaurus",
+      "nameMeaning": "'Argentina lizard'",
+      "namedBy": "Bonaparte and Coria (1993)",
+      "pronunciation": "AR-gent-eeno-sore-us",
+      "species": "huinculensis",
+      "taxonomy": "Dinosauria, Saurischia, Sauropodomorpha, Sauropoda, Eusauropoda, Neosauropoda, Macronaria, Camarasauromorpha, Titanosauriformes, Titanosauria",
+      "type": " sauropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "Canada"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 72-67 million years ago",
+      "name": "Arrhinoceratops",
+      "nameMeaning": "'without-nose-horn face'",
+      "namedBy": "Parks (1925)",
+      "pronunciation": "ay-rine-oh-ker-ah-tops",
+      "species": "brachyops",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Cerapoda, Marginocephalia, Ceratopsia, Neoceratopsia, Coronosauria, Ceratopsidae, Chasmosaurinae",
+      "type": " ceratopsian",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "Australia"
+      ],
+      "length": null,
+      "live": "Early Cretaceous, 121-97 million years ago",
+      "name": "Atlascopcosaurus",
+      "nameMeaning": "'Atlas Copco lizard'",
+      "namedBy": "Rich and Rich (1989)",
+      "pronunciation": "Atlass-KOP-KO-sore-us",
+      "species": "loadsi",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Cerapoda, Ornithopoda, Euornithopoda",
+      "type": " euornithopod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "carnivorous"
+      ],
+      "foundIn": [
+        "Argentina"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 84-71 million years ago",
+      "name": "Aucasaurus",
+      "nameMeaning": "'Auca lizard'",
+      "namedBy": "Coria, Chiappe and Dingus (2002)",
+      "pronunciation": "aw-ka-sore-us",
+      "species": "garridoi",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Ceratosauria, Neoceratosauria, Abelisauroidea, Abelisauria",
+      "type": " large theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "Australia"
+      ],
+      "length": null,
+      "live": "Early Cretaceous, 112-99 million years ago",
+      "name": "Austrosaurus",
+      "nameMeaning": "'south lizard'",
+      "namedBy": "Longman (1933)",
+      "pronunciation": "aws-troh-sore-us",
+      "species": "mckillopi",
+      "taxonomy": "Dinosauria, Saurischia, Sauropodomorpha, Sauropoda, Eusauropoda, Neosauropoda, Macronaria, Camarasauromorpha, Titanosauriformes, Titanosauria",
+      "type": " sauropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "USA"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 80-75 million years ago",
+      "name": "Avaceratops",
+      "nameMeaning": "'Ava's horned face'",
+      "namedBy": "Dodson (1986)",
+      "pronunciation": "ay-va-ker-ah-tops",
+      "species": "lammersi",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Cerapoda, Marginocephalia, Ceratopsia, Neoceratopsia, Coronosauria, Ceratopsidae, Centrosaurinae",
+      "type": " ceratopsian",
+      "weight": null
+    },
+    {
+      "diet": [
+        "omnivorous"
+      ],
+      "foundIn": [
+        "China",
+        "Mongolia"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 80-75 million years ago",
+      "name": "Avimimus",
+      "nameMeaning": "'bird mimic'",
+      "namedBy": "Kurzanov (1981)",
+      "pronunciation": "ah-vee-MEEM-us",
+      "species": "portentosus",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Coelurosauria, Tyrannoraptora, Maniraptoriformes, Maniraptora, Oviraptorosauria, Avimimidae",
+      "type": " small theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "China"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 84-71 million years ago",
+      "name": "Bactrosaurus",
+      "nameMeaning": "'club [spined] lizard'",
+      "namedBy": "Gilmore (1933)",
+      "pronunciation": "bak-troh-sore-us",
+      "species": "johnsoni",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Cerapoda, Ornithopoda, Euornithopoda, Iguanadontia, Euiguanadontia, Dryomorpha, Ankylopollexia, Iguanodontoidea, Hadrosauridae",
+      "type": " euornithopod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "Mongolia"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 85-80 million years ago",
+      "name": "Bagaceratops",
+      "nameMeaning": "'small-horned face'",
+      "namedBy": "Maryanska and Osmolska (1975)",
+      "pronunciation": "Bag-a-ser-a-tops",
+      "species": "rozhdestvenskyi",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Cerapoda, Marginocephalia, Ceratopsia, Neoceratopsia, Bagaceratopsidae",
+      "type": " ceratopsian",
+      "weight": null
+    },
+    {
+      "diet": [
+        "carnivorous"
+      ],
+      "foundIn": [
+        "USA"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 84-71 million years ago",
+      "name": "Bambiraptor",
+      "nameMeaning": "'Bambi plunderer'",
+      "namedBy": "Burnham, Derstler, Currie, Bakker, Zhou and Ostrom (2000)",
+      "pronunciation": "bam-bee-rap-tor",
+      "species": "feinbergorum",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Coelurosauria, Tyrannoraptora, Maniraptoriformes, Maniraptora, Paraves, Eumaniraptora, Dromaeosauridae",
+      "type": " small theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "India"
+      ],
+      "length": null,
+      "live": "Early Jurassic, 185-170 million years ago",
+      "name": "Barapasaurus",
+      "nameMeaning": "'big leg lizard'",
+      "namedBy": "Jain, Kutty, Roy-Chowdhury and Chatterjee (1975)",
+      "pronunciation": "Bar-rap-oh-SORE-us",
+      "species": "tagorei",
+      "taxonomy": "Dinosauria, Saurischia, Sauropodomorpha, Sauropoda, Eusauropoda, Cetiosauridae",
+      "type": " sauropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "Tanzania",
+        "USA"
+      ],
+      "length": null,
+      "live": "Late Jurassic, 155-145 million years ago",
+      "name": "Barosaurus",
+      "nameMeaning": "'heavy lizard'",
+      "namedBy": "Marsh (1890)",
+      "pronunciation": "BAR-oh-sore-us",
+      "species": "lentus",
+      "taxonomy": "Dinosauria, Saurischia, Sauropodomorpha, Sauropoda, Eusauropoda, Neosauropoda, Diplodocoidea, Diplodocidae",
+      "type": " sauropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "carnivorous"
+      ],
+      "foundIn": [
+        "England",
+        "Spain",
+        "United Kingdom"
+      ],
+      "length": null,
+      "live": "Early Cretaceous, 125 million years ago",
+      "name": "Baryonyx",
+      "nameMeaning": "'heavy claw'",
+      "namedBy": "Charig and Milner (1987)",
+      "pronunciation": "bah-ree-ON-icks",
+      "species": "walkeri",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Spinosauroidea, Spinosauridae, Baryonychinae",
+      "type": " large theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "carnivorous"
+      ],
+      "foundIn": [
+        "England",
+        "United Kingdom"
+      ],
+      "length": null,
+      "live": "Early Cretaceous, 142-132 million years ago",
+      "name": "Becklespinax",
+      "nameMeaning": "'Beckles' spinax'",
+      "namedBy": "Paul (1988)",
+      "pronunciation": "beck-el-spien-aks",
+      "species": "altispinax",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae",
+      "type": " large theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "omnivorous"
+      ],
+      "foundIn": [
+        "China"
+      ],
+      "length": null,
+      "live": "Early Cretaceous, 127-121 million years ago",
+      "name": "Beipiaosaurus",
+      "nameMeaning": "'Beipiao lizard'",
+      "namedBy": "Xu, Tang and Wang (1999)",
+      "pronunciation": "bay-pyow-sore-us",
+      "species": "inexpectus",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Coelurosauria, Tyrannoraptora, Maniraptoriformes, Maniraptora, Therizinosauroidea",
+      "type": " small theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "China"
+      ],
+      "length": null,
+      "live": "Mid Jurassic, 180-159 million years ago",
+      "name": "Bellusaurus",
+      "nameMeaning": "'fine lizard'",
+      "namedBy": "Dong and Azuma (1990)",
+      "pronunciation": "bel-uh-sore-us",
+      "species": "sui",
+      "taxonomy": "Dinosauria, Saurischia, Sauropodomorpha, Sauropoda, Eusauropoda, Neosauropoda, Macronaria",
+      "type": " sauropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "carnivorous"
+      ],
+      "foundIn": [
+        "Mongolia"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 84-65 million years ago",
+      "name": "Borogovia",
+      "nameMeaning": "'borogove'",
+      "namedBy": "Osm\u00f3lska (1987)",
+      "pronunciation": "bor-o-goh-vee-a",
+      "species": "gracilicrus",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Coelurosauria, Tyrannoraptora, Maniraptoriformes, Maniraptora, Paraves, Eumaniraptoria, Troodontidae",
+      "type": " small theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "Algeria",
+        "Portugal",
+        "Tanzania",
+        "USA"
+      ],
+      "length": null,
+      "live": "Late Jurassic, 155-140 million years ago",
+      "name": "Brachiosaurus",
+      "nameMeaning": "'arm lizard'",
+      "namedBy": "Riggs (1903)",
+      "pronunciation": "BRAK-ee-oh-sore-us",
+      "species": "altithorax",
+      "taxonomy": "Dinosauria, Saurischia, Sauropodomorpha, Sauropoda, Eusauropoda, Neosauropoda, Macronaria, Camarasauromorpha, Titanosauriformes, Brachiosauridae",
+      "type": " sauropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "Canada",
+        "USA"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 89-88 million years ago",
+      "name": "Brachylophosaurus",
+      "nameMeaning": "'short-crested lizard'",
+      "namedBy": "C. M. Sternberg (1953)",
+      "pronunciation": "brak-i-lof-oh-sore-us",
+      "species": "canadensis",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Cerapoda, Ornithopoda, Euornithopoda, Iguanadontia, Euiguanadontia, Dryomorpha, Ankylopollexia, Iguanodontoidea, Hadrosauridae, Euhadrosauria, Hadrosaurinae",
+      "type": " euornithopod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "Argentina"
+      ],
+      "length": null,
+      "live": "Mid Jurassic, 150 million years ago",
+      "name": "Brachytrachelopan",
+      "nameMeaning": "'short-necked Pan [shepherd god]'",
+      "namedBy": "Rauhut, Remes, Fechner, Cladera and Puerta (2005)",
+      "pronunciation": "brak-i-trak-eh-loh-pan",
+      "species": "mesai",
+      "taxonomy": "Dinosauria, Saurischia, Sauropodomorpha, Sauropoda, Eusauropoda, Neosauropoda, Diplodocoidea, Dicraeosauridae",
+      "type": " sauropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "carnivorous"
+      ],
+      "foundIn": [
+        "Argentina"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 99-90 million years ago",
+      "name": "Buitreraptor",
+      "nameMeaning": "'Buitrera ('vulture roost') plunderer'",
+      "namedBy": "Makovicky, Apestegu\u00eda & Agnolin (2005)",
+      "pronunciation": "bwee-tree-rap-tor",
+      "species": "gonzalezorum",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Coelurosauria, Tyrannoraptora, Maniraptoriformes, Maniraptora, Paraves, Eumaniraptora, Dromaeosauridae, Unenlagiinae",
+      "type": " small theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "USA"
+      ],
+      "length": null,
+      "live": "Late Jurassic, 150-140 million years ago",
+      "name": "Camarasaurus",
+      "nameMeaning": "'chambered lizard'",
+      "namedBy": "Cope (1877)",
+      "pronunciation": "KAM-ar-a-sore-us",
+      "species": "supremus",
+      "taxonomy": "Dinosauria, Saurischia, Sauropodomorpha, Sauropoda, Eusauropoda, Neosauropoda, Macronaria, Camarasauromorpha, Camarasauridae",
+      "type": " sauropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "England",
+        "United Kingdom",
+        "USA"
+      ],
+      "length": null,
+      "live": "Late Jurassic, 155-145 million years ago",
+      "name": "Camptosaurus",
+      "nameMeaning": "'bent lizard'",
+      "namedBy": "Marsh (1885)",
+      "pronunciation": "KAMP-toe-sore-us",
+      "species": "dispar",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Cerapoda, Ornithopoda, Euornithopoda, Iguanadontia, Euiguanadontia, Dryomorpha, Ankylopollexia",
+      "type": " euornithopod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "carnivorous"
+      ],
+      "foundIn": [
+        "North Africa"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 98-94 million years ago",
+      "name": "Carcharodontosaurus",
+      "nameMeaning": "'Carcharodon lizard'",
+      "namedBy": "Stromer (1931)",
+      "pronunciation": "Kar-KAR-o-don-toe-sore-us",
+      "species": "saharicus",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Carnosauria, Allosauroidea, Carcharodontosauridae",
+      "type": " large theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "carnivorous"
+      ],
+      "foundIn": [
+        "Argentina"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 70 million years ago",
+      "name": "Carnotaurus",
+      "nameMeaning": "'carnivorous bull'",
+      "namedBy": "Bonaparte (1985)",
+      "pronunciation": "Kar-noh-TORE-us",
+      "species": "sastrei",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Ceratosauria, Neoceratosauria, Abelisauridae",
+      "type": " large theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "omnivorous"
+      ],
+      "foundIn": [
+        "China"
+      ],
+      "length": null,
+      "live": "Early Cretaceous, 125-122 million years ago",
+      "name": "Caudipteryx",
+      "nameMeaning": "'tail feather'",
+      "namedBy": "Ji, Currie, Norell and Ji. (1998)",
+      "pronunciation": "caw-dip-ter-iks",
+      "species": "zoui",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Coelurosauria, Tyrannoraptora, Maniraptoriformes, Maniraptora, Oviraptorosauria, Caudipterygidae",
+      "type": " small theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "USA"
+      ],
+      "length": null,
+      "live": "Early Cretaceous, 142-127 million years ago",
+      "name": "Cedarpelta",
+      "nameMeaning": "'Cedar [Mountain Formation] shield'",
+      "namedBy": "Carpenter, Kirkland, Burge and Bird (2001)",
+      "pronunciation": "see-dar-pel-tuh",
+      "species": "bilbeyhallorum",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Thyreophora, Ankylosauromorpha, Ankylosauria, Ankylosauridae",
+      "type": " armoured dinosaur",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "Canada"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 76-74 million years ago",
+      "name": "Centrosaurus",
+      "nameMeaning": "'sharp pointed lizard'",
+      "namedBy": null,
+      "pronunciation": "Cen-TROH-sore-us",
+      "species": "apertus",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Cerapoda, Marginocephalia, Ceratopsia, Neoceratopsia, Coronosauria, Ceratopsidae, Centrosaurinae",
+      "type": " ceratopsian",
+      "weight": null
+    },
+    {
+      "diet": [
+        "carnivorous"
+      ],
+      "foundIn": [
+        "Portugal",
+        "USA"
+      ],
+      "length": null,
+      "live": "Late Jurassic, 153-148 million years ago",
+      "name": "Ceratosaurus",
+      "nameMeaning": "'horned lizard'",
+      "namedBy": "Marsh (1884)",
+      "pronunciation": "Keh-RAT-oh-sore-us",
+      "species": "nasicornis",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Ceratosauria, Neoceratosauria",
+      "type": " large theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "England",
+        "United Kingdom"
+      ],
+      "length": null,
+      "live": "Mid Jurassic, 175-160 million years ago",
+      "name": "Cetiosauriscus",
+      "nameMeaning": "'like whale lizard'",
+      "namedBy": "von Huene (1927)",
+      "pronunciation": "see-tee-oh-SORE-is-kuss",
+      "species": "stewarti",
+      "taxonomy": "Dinosauria, Saurischia, Sauropodomorpha, Sauropoda, Eusauropoda, Neosauropoda, Diplodocoidea",
+      "type": " sauropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "England",
+        "United Kingdom"
+      ],
+      "length": null,
+      "live": "Mid Jurassic, 170-160 million years ago",
+      "name": "Cetiosaurus",
+      "nameMeaning": "'whale lizard'",
+      "namedBy": "Phillips (1871)",
+      "pronunciation": "See-TEE-oh-sore-us",
+      "species": "oxoniensis",
+      "taxonomy": "Dinosauria, Saurischia, Sauropodomorpha, Sauropoda, Eusauropoda, Cetiosauridae",
+      "type": " sauropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "China"
+      ],
+      "length": null,
+      "live": "Late Jurassic, 152-145 million years ago",
+      "name": "Chaoyangsaurus",
+      "nameMeaning": "'Chaoyang lizard'",
+      "namedBy": "Zhao, Cheng and Xu (1999)",
+      "pronunciation": "chow-yahng-sore-us",
+      "species": "youngi",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Cerapoda, Marginocephalia, Ceratopsia, Neoceratopsia",
+      "type": " ceratopsian",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "Canada"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 76-74 million years ago",
+      "name": "Chasmosaurus",
+      "nameMeaning": "'chasm lizard'",
+      "namedBy": null,
+      "pronunciation": "KAZ-mo-sore-us",
+      "species": "belli",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Cerapoda, Marginocephalia, Ceratopsia, Neoceratopsia, Coronosauria, Ceratopsidae, Chasmosaurinae",
+      "type": " ceratopsian",
+      "weight": null
+    },
+    {
+      "diet": [
+        "carnivorous"
+      ],
+      "foundIn": [
+        "USA"
+      ],
+      "length": null,
+      "live": "Late Triassic, 227-210 million years ago",
+      "name": "Chindesaurus",
+      "nameMeaning": "'Chinde lizard'",
+      "namedBy": "Long and Murry (1995)",
+      "pronunciation": "chin-dee-sore-us",
+      "species": "bryansmalli",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Herrerasauridae",
+      "type": " small theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "China"
+      ],
+      "length": null,
+      "live": "Late Jurassic, 159-142 million years ago",
+      "name": "Chinshakiangosaurus",
+      "nameMeaning": "'Chinshakiang lizard'",
+      "namedBy": "Yeh (1975)",
+      "pronunciation": "jing-sha-kiang-oh-sore-us",
+      "species": "zhongheensis",
+      "taxonomy": "Dinosauria, Saurischia, Sauropodomorpha, Sauropoda",
+      "type": " sauropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "omnivorous"
+      ],
+      "foundIn": [
+        "Canada"
+      ],
+      "length": null,
+      "live": "Late Jurassic, 79-67 million years ago",
+      "name": "Chirostenotes",
+      "nameMeaning": "'narrow-handed'",
+      "namedBy": "Gilmore (1924)",
+      "pronunciation": "kie-ro-sten-oh-teez",
+      "species": "pergracilis",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Coelurosauria, Tyrannoraptora, Maniraptoriformes, Maniraptora, Oviraptorosauria, Caenagnathoidea, Caenagnathidae",
+      "type": " small theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "Argentina"
+      ],
+      "length": null,
+      "live": "Early Cretaceous, 112-99 million years ago",
+      "name": "Chubutisaurus",
+      "nameMeaning": "'Chubut [Province] lizard'",
+      "namedBy": "Corro (1974)",
+      "pronunciation": "choo-boot-i-sore-us",
+      "species": "insignis",
+      "taxonomy": "Dinosauria, Saurischia, Sauropodomorpha, Sauropoda, Eusauropoda, Neosauropoda, Macronaria, Camarasauromorpha, Titanosauriformes, Titanosauria",
+      "type": " sauropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "China"
+      ],
+      "length": null,
+      "live": "Late Jurassic, 159-142 million years ago",
+      "name": "Chungkingosaurus",
+      "nameMeaning": "'Chongqing lizard'",
+      "namedBy": "Dong, Zhou and Zhang (1983)",
+      "pronunciation": "chung-ching-oh-sore-us",
+      "species": "jiangbeiensis",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Thyreophora, Stegosauria, Stegosauridae, Stegosaurinae",
+      "type": " armoured dinosaur",
+      "weight": null
+    },
+    {
+      "diet": [
+        "omnivorous"
+      ],
+      "foundIn": [
+        "Mongolia"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 81-75 million years ago",
+      "name": "Citipati",
+      "nameMeaning": "'lord of the funeral pyre'",
+      "namedBy": "Clark, Norell and Barsbold (2001)",
+      "pronunciation": "chit-i-puh-tih",
+      "species": "osmolskae",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Coelurosauria, Tyrannoraptora, Maniraptoriformes, Maniraptora, Oviraptorosauria, Caenagnathoidea, Oviraptoridae, Oviraptorinae",
+      "type": " small theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "carnivorous"
+      ],
+      "foundIn": [
+        "South Africa",
+        "USA",
+        "Zimbabwe"
+      ],
+      "length": null,
+      "live": "Late Triassic, 225-190 million years ago",
+      "name": "Coelophysis",
+      "nameMeaning": "'hollow form'",
+      "namedBy": null,
+      "pronunciation": "seel-OH-fie-sis",
+      "species": "bauri",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Coelophysoidea, Coelophysidae",
+      "type": " small theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "carnivorous"
+      ],
+      "foundIn": [
+        "USA"
+      ],
+      "length": null,
+      "live": "Late Jurassic, 155-145 million years ago",
+      "name": "Coelurus",
+      "nameMeaning": "'hollow tail'",
+      "namedBy": "Marsh (1879)",
+      "pronunciation": "seel-YEW-rus",
+      "species": "fragilis",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Coelurosauria",
+      "type": " small theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "omnivorous"
+      ],
+      "foundIn": [
+        "Argentina"
+      ],
+      "length": null,
+      "live": "Late Triassic, 221-210 million years ago",
+      "name": "Coloradisaurus",
+      "nameMeaning": "'[Los] Colorados lizard'",
+      "namedBy": "Bonaparte (1978)",
+      "pronunciation": "ko-lo-rahd-i-sore-us",
+      "species": "brevis",
+      "taxonomy": "Dinosauria, Saurischia, Sauropodomorpha, Prosauropoda, Plateosauria, Plateosauridae",
+      "type": " sauropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "carnivorous"
+      ],
+      "foundIn": [
+        "France",
+        "Germany"
+      ],
+      "length": null,
+      "live": "Late Jurassic, 145-140 million years ago",
+      "name": "Compsognathus",
+      "nameMeaning": "'pretty jaw'",
+      "namedBy": "Wagner (1859)",
+      "pronunciation": "Komp-sog-NATH-us",
+      "species": "longipes",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Coelurosauria, Compsognathidae",
+      "type": " small theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "carnivorous"
+      ],
+      "foundIn": [
+        "Mongolia"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 81-76 million years ago",
+      "name": "Conchoraptor",
+      "nameMeaning": "'conch thief'",
+      "namedBy": "Barsbold (1986)",
+      "pronunciation": "kon-koh-rap-tor",
+      "species": "gracilis",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Coelurosauria, Tyrannoraptora, Maniraptoriformes, Maniraptora, Oviraptorosauria, Caenagnathoidea, Oviraptoridae, Ingeniinae",
+      "type": " small theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "carnivorous"
+      ],
+      "foundIn": [
+        "China"
+      ],
+      "length": null,
+      "live": "Early Cretaceous, 127-121 million years ago",
+      "name": "Confuciusornis",
+      "nameMeaning": "'Confucius bird'",
+      "namedBy": "Hou, Zhou, Gu and Zhang (1995)",
+      "pronunciation": "kon-few-shus-or-niss",
+      "species": "sanctus",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Coelurosauria, Tyrannoraptora, Maniraptoriformes, Maniraptora, Paraves, Eumaniraptoria, Avialae, Ornithurae, Avibrevicauda, Pygostylia, Confuciusornithidae",
+      "type": " small theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "Canada",
+        "USA"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 76-74 million years ago",
+      "name": "Corythosaurus",
+      "nameMeaning": "'Corinthian helmet lizard'",
+      "namedBy": "Brown (1914)",
+      "pronunciation": "koh-rith-OH-sore-us",
+      "species": "casuarius",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Cerapoda, Ornithopoda, Euornithopoda, Iguanadontia, Euiguanadontia, Dryomorpha, Ankylopollexia, Iguanodontoidea, Hadrosauridae, Euhadrosauria, Lambeosaurinae",
+      "type": " euornithopod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "carnivorous"
+      ],
+      "foundIn": [
+        "Antarctica"
+      ],
+      "length": null,
+      "live": "Early Jurassic, 170 million years ago",
+      "name": "Cryolophosaurus",
+      "nameMeaning": "'frozen crested lizard'",
+      "namedBy": "Hammer and Hickerson (1994)",
+      "pronunciation": "cry-o-loaf-oh-sore-us",
+      "species": "elliotti",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Carnosauria",
+      "type": " large theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "England",
+        "France",
+        "Portugal",
+        "United Kingdom"
+      ],
+      "length": null,
+      "live": "Late Jurassic, 154-150 million years ago",
+      "name": "Dacentrurus",
+      "nameMeaning": "'pointed tail'",
+      "namedBy": "Lucas (1902)",
+      "pronunciation": "dah-sen-troo-russ",
+      "species": "armatus",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Thyreophora, Stegosauria, Stegosauridae",
+      "type": " armoured dinosaur",
+      "weight": null
+    },
+    {
+      "diet": [
+        "carnivorous"
+      ],
+      "foundIn": [
+        "Canada"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 76-74 million years ago",
+      "name": "Daspletosaurus",
+      "nameMeaning": "'frightful lizard'",
+      "namedBy": "Russell (1970)",
+      "pronunciation": "da-PLEE-toe-SORE-us",
+      "species": "torosus",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Coelurosauria, Tyrannoraptora, Tyrannosauroidea, Tyrannosauridae, Tyrannosaurinae",
+      "type": " large theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "China"
+      ],
+      "length": null,
+      "live": "Mid Jurassic, 170 million years ago",
+      "name": "Datousaurus",
+      "nameMeaning": "'Datou lizard'",
+      "namedBy": "Dong and Tang (1984)",
+      "pronunciation": "dah-too-SORE-us",
+      "species": "bashanensis",
+      "taxonomy": "Dinosauria, Saurischia, Sauropodomorpha, Sauropoda",
+      "type": " sauropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "omnivorous"
+      ],
+      "foundIn": [
+        "Mongolia"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 70-66 million years ago",
+      "name": "Deinocheirus",
+      "nameMeaning": "'terrible hand'",
+      "namedBy": "Osm\u00f3lska and Roniewicz (1970)",
+      "pronunciation": "DINE-oh-KIRE-us",
+      "species": "mirificus",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Coelurosauria, Tyrannoraptora, Maniraptoriformes, Ornithomimosauria",
+      "type": " large theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "carnivorous"
+      ],
+      "foundIn": [
+        "USA"
+      ],
+      "length": null,
+      "live": "Early Cretaceous, 120-110 million years ago",
+      "name": "Deinonychus",
+      "nameMeaning": "'terrible claw'",
+      "namedBy": "Ostrom (1969)",
+      "pronunciation": "die-NON-i-kuss",
+      "species": "antirrhopus",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Coelurosauria, Tyrannoraptora, Maniraptoriformes, Maniraptora, Paraves, Eumaniraptora, Dromaeosauridae",
+      "type": " small theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "carnivorous"
+      ],
+      "foundIn": [
+        "Morocco"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 99-94 million years ago",
+      "name": "Deltadromeus",
+      "nameMeaning": "'delta runner'",
+      "namedBy": "Sereno, Duthiel, Iarochene, Larsson, Lyon, Magwene, Sidor, Varricchio and Wilson (1996)",
+      "pronunciation": "del-tah-drohm-ee-us",
+      "species": "agilis",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Coelurosauria",
+      "type": " large theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "Tanzania"
+      ],
+      "length": null,
+      "live": "Late Jurassic, 150-135 million years ago",
+      "name": "Dicraeosaurus",
+      "nameMeaning": "'forked lizard'",
+      "namedBy": "Janensch (1914)",
+      "pronunciation": "die-KRAY-oh-SORE-us",
+      "species": "hansemanni",
+      "taxonomy": "Dinosauria, Saurischia, Sauropodomorpha, Sauropoda, Eusauropoda, Neosauropoda, Diplodocoidea, Dicraeosauridae",
+      "type": " sauropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "carnivorous"
+      ],
+      "foundIn": [
+        "USA"
+      ],
+      "length": null,
+      "live": "Early Jurassic, 190 million years ago",
+      "name": "Dilophosaurus",
+      "nameMeaning": "'two-ridged lizard'",
+      "namedBy": null,
+      "pronunciation": "die-LOAF-oh-sore-us",
+      "species": "wetherilli",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Dilophosauridae",
+      "type": " large theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "USA"
+      ],
+      "length": null,
+      "live": "Late Jurassic, 155-145 million years ago",
+      "name": "Diplodocus",
+      "nameMeaning": "'double beam'",
+      "namedBy": "Marsh (1878)",
+      "pronunciation": "DIP-low DOCK-us",
+      "species": "longus",
+      "taxonomy": "Dinosauria, Saurischia, Sauropodomorpha, Sauropoda, Eusauropoda, Neosauropoda, Diplodocoidea, Diplodocidae",
+      "type": " sauropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "carnivorous"
+      ],
+      "foundIn": [
+        "Canada",
+        "USA"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 76-74 million years ago",
+      "name": "Dromaeosaurus",
+      "nameMeaning": "'running lizard'",
+      "namedBy": "Matthew and Brown (1922)",
+      "pronunciation": "DROM-ee-oh-saw-russ",
+      "species": "albertensis",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Coelurosauria, Tyrannoraptora, Maniraptoriformes, Maniraptora, Paraves, Eumaniraptora, Dromaeosauridae",
+      "type": " small theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "omnivorous"
+      ],
+      "foundIn": [
+        "Canada"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 74-70 million years ago",
+      "name": "Dromiceiomimus",
+      "nameMeaning": "'emu mimic'",
+      "namedBy": "Parks (1926)",
+      "pronunciation": "dro-MI-see-oh-me-muss",
+      "species": "brevitertius",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Coelurosauria, Tyrannoraptora, Maniraptoriformes, Ornithomimosauria, Ornithomimidae",
+      "type": " large theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "Tanzania",
+        "USA"
+      ],
+      "length": null,
+      "live": "Late Jurassic, 155-140 million years ago",
+      "name": "Dryosaurus",
+      "nameMeaning": "'oak lizard'",
+      "namedBy": "Marsh (1894)",
+      "pronunciation": "dry-oh-SORE-us",
+      "species": "altus",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Cerapoda, Ornithopoda, Euornithopoda, Iguanadontia, Euiguanadontia, Dryomorpha, Dryosauridae",
+      "type": " euornithopod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "carnivorous"
+      ],
+      "foundIn": [
+        "USA"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 84-65 million years ago",
+      "name": "Dryptosaurus",
+      "nameMeaning": "'tearing lizard'",
+      "namedBy": "Cope (1866)",
+      "pronunciation": "drip-toe-SORE-us",
+      "species": "aquilunguis",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Coelurosauria, Tyrannoraptora, Tyrannosauroidea",
+      "type": " large theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "carnivorous"
+      ],
+      "foundIn": [
+        "France"
+      ],
+      "length": null,
+      "live": "Late Jurassic, 169-164 million years ago",
+      "name": "Dubreuillosaurus",
+      "nameMeaning": "'(unknown)'",
+      "namedBy": "Allain (2005)",
+      "pronunciation": "dub-rhe-oo-oh-sore-us",
+      "species": "valesdunensis",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Spinosauroidea, Megalosauridae, Eustreptospondylinae",
+      "type": " large theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "Canada"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 76-74 million years ago",
+      "name": "Edmontonia",
+      "nameMeaning": "'of Edmonton'",
+      "namedBy": "Sternberg (1928)",
+      "pronunciation": "ed-mon-TONE-ee-ah",
+      "species": "longiceps",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Thyreophora, Ankylosauromorpha, Ankylosauria, Nodosauridae",
+      "type": " armoured dinosaur",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "Canada"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 76-65 million years ago",
+      "name": "Edmontosaurus",
+      "nameMeaning": "'Edmonton lizard'",
+      "namedBy": "Lambe (1917)",
+      "pronunciation": "ed-MON-toe-sore-us",
+      "species": "regalis",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Cerapoda, Ornithopoda, Euornithopoda, Iguanadontia, Euiguanadontia, Dryomorpha, Ankylopollexia, Iguanodontoidea, Hadrosauridae, Euhadrosauria, Hadrosaurinae",
+      "type": " euornithopod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "USA"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 74 million years ago",
+      "name": "Einiosaurus",
+      "nameMeaning": "'bison lizard'",
+      "namedBy": "Sampson  (1995)",
+      "pronunciation": "ie-nee-oh-sore-us",
+      "species": "procurvicornis",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Cerapoda, Marginocephalia, Ceratopsia, Neoceratopsia, Coronosauria, Ceratopsidae, Centrosaurinae",
+      "type": " ceratopsian",
+      "weight": null
+    },
+    {
+      "diet": [
+        "carnivorous"
+      ],
+      "foundIn": [
+        "Tanzania"
+      ],
+      "length": null,
+      "live": "Late Jurassic, 154-151 million years ago",
+      "name": "Elaphrosaurus",
+      "nameMeaning": "'fleet lizard'",
+      "namedBy": "Janensch (1920)",
+      "pronunciation": "el-a-fro-sore-us",
+      "species": "bambergi",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Ceratosauria, Neoceratosauria",
+      "type": " large theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "Germany"
+      ],
+      "length": null,
+      "live": "Mid Jurassic, 190-180 million years ago",
+      "name": "Emausaurus",
+      "nameMeaning": "'EMAU (Ernst-Moritz-Arndt-Universit\u00e4t) lizard'",
+      "namedBy": "Haubold (1991)",
+      "pronunciation": "em-ow-sore-us",
+      "species": "ernsti",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Thyreophora",
+      "type": " armoured dinosaur",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "USA"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 99-94 million years ago",
+      "name": "Eolambia",
+      "nameMeaning": "'dawn lambeosaurine'",
+      "namedBy": "Kirkland (1998)",
+      "pronunciation": "ee-oh-lam-bee-ah",
+      "species": "caroljonesa",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Cerapoda, Ornithopoda, Euornithopoda, Iguanadontia, Euiguanadontia, Dryomorpha, Ankylopollexia, Iguanodontoidea",
+      "type": " euornithopod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "carnivorous"
+      ],
+      "foundIn": [
+        "Argentina"
+      ],
+      "length": null,
+      "live": "Late Triassic, 228 million years ago",
+      "name": "Eoraptor",
+      "nameMeaning": "'early plunderer'",
+      "namedBy": "Sereno, Forster, Rogers and Monetta (1993)",
+      "pronunciation": "EE-oh-RAP-tor",
+      "species": "lunensis",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda",
+      "type": " small theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "carnivorous"
+      ],
+      "foundIn": [
+        "England",
+        "United Kingdom"
+      ],
+      "length": null,
+      "live": "Early Cretaceous, 127-121 million years ago",
+      "name": "Eotyrannus",
+      "nameMeaning": "'dawn tyrant'",
+      "namedBy": "Hutt, Naish, Martill, Barker and Newberry (2001)",
+      "pronunciation": "ee-oh-ti-ran-us",
+      "species": "lengi",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Coelurosauria, Tyrannoraptora, Tyrannosauroidea",
+      "type": " large theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "China"
+      ],
+      "length": null,
+      "live": "Early Cretaceous, 127-99 million years ago",
+      "name": "Equijubus",
+      "nameMeaning": "'(unknown)'",
+      "namedBy": "You, Luo, Shubin, Witmer, Tang and Tang (2003)",
+      "pronunciation": "ee-kwee-joo-bus",
+      "species": "normani",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Cerapoda, Ornithopoda, Euornithopoda, Iguanadontia, Euiguanadontia, Dryomorpha, Ankylopollexia, Iguanodontoidea",
+      "type": " euornithopod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "Mongolia"
+      ],
+      "length": null,
+      "live": "Early Cretaceous\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t",
+      "name": "Erketu",
+      "nameMeaning": "'Erketu = Tengri (a Mongolian creator-god)'",
+      "namedBy": "Ksepka and Norell (2006)",
+      "pronunciation": "er-kee-tu",
+      "species": "ellisoni",
+      "taxonomy": "Dinosauria, Saurischia, Sauropodomorpha, Sauropoda, Eusauropoda, Neosauropoda, Macronaria, Camarasauromorpha, Titanosauriformes, Titanosauria",
+      "type": " sauropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "omnivorous"
+      ],
+      "foundIn": [
+        "Mongolia"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 99-89 million years ago",
+      "name": "Erlikosaurus",
+      "nameMeaning": "'Erlik's lizard'",
+      "namedBy": "Perle vide Barsbold and Perle (1980)",
+      "pronunciation": "er-lik-oh-sore-us",
+      "species": "andrewsi",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Coelurosauria, Tyrannoraptora, Maniraptoriformes, Maniraptora, Therizinosauroidea, Therizinosauridae",
+      "type": " small theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "China"
+      ],
+      "length": null,
+      "live": "Late Jurassic, 154-142 million years ago",
+      "name": "Euhelopus",
+      "nameMeaning": "'1 marsh foot'",
+      "namedBy": "Wiman (1929)",
+      "pronunciation": "yoo-hel-oh-pus",
+      "species": "zdanskyi",
+      "taxonomy": "Dinosauria, Saurischia, Sauropodomorpha, Sauropoda, Eusauropoda",
+      "type": " sauropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "Canada",
+        "USA"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 76-70 million years ago",
+      "name": "Euoplocephalus",
+      "nameMeaning": "'well-armoured head'",
+      "namedBy": null,
+      "pronunciation": "you-OH-plo-kef-ah-luss",
+      "species": "tutus",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Thyreophora, Ankylosauromorpha, Ankylosauria, Ankylosauridae",
+      "type": " armoured dinosaur",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "Germany"
+      ],
+      "length": null,
+      "live": "Late Jurassic, 154-151 million years ago",
+      "name": "Europasaurus",
+      "nameMeaning": "'Europe lizard'",
+      "namedBy": "Sander, Mateus, Laven and Kn\u00f6tschke (2006)",
+      "pronunciation": "yoo-roh-pah-sore-us",
+      "species": "holgeri",
+      "taxonomy": "Dinosauria, Saurischia, Sauropodomorpha, Sauropoda, Eusauropoda, Neosauropoda, Macronaria",
+      "type": " sauropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "carnivorous"
+      ],
+      "foundIn": [
+        "England",
+        "United Kingdom"
+      ],
+      "length": null,
+      "live": "Mid Jurassic, 165 million years ago",
+      "name": "Eustreptospondylus",
+      "nameMeaning": "'well-curved vertebra'",
+      "namedBy": "Walker (1964)",
+      "pronunciation": "ewe-strep-toe-SPON-die-luss",
+      "species": "oxoniensis",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Spinosauroidea, Megalosauridae, Eustreptospondylinae",
+      "type": " large theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "carnivorous"
+      ],
+      "foundIn": [
+        "Japan"
+      ],
+      "length": null,
+      "live": "Early Cretaceous, 121-99 million years ago",
+      "name": "Fukuiraptor",
+      "nameMeaning": "'Fukui plunderer'",
+      "namedBy": "Azuma and Currie (2000)",
+      "pronunciation": "foo-koo-ee-rap-tor",
+      "species": "kitadaniensis",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Carnosauria",
+      "type": " large theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "Japan"
+      ],
+      "length": null,
+      "live": "Early Cretaceous, 121-99 million years ago",
+      "name": "Fukuisaurus",
+      "nameMeaning": "'Fukui lizard'",
+      "namedBy": "Kobayashi and Azuma (2003)",
+      "pronunciation": "foo-koo-I-sore-us",
+      "species": "tetoriensius",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Cerapoda, Ornithopoda, Euornithopoda, Iguanadontia, Euiguanadontia, Dryomorpha, Ankylopollexia, Iguanodontoidea",
+      "type": " euornithopod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "omnivorous"
+      ],
+      "foundIn": [
+        "Mongolia"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 74-70 million years ago",
+      "name": "Gallimimus",
+      "nameMeaning": "'chicken mimic'",
+      "namedBy": "Osm\u00f3lska, Roniewicz and Barsbold (1972)",
+      "pronunciation": "gal-lee-MEEM-us",
+      "species": "bullatus",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Coelurosauria, Tyrannoraptora, Maniraptoriformes, Ornithomimosauria, Ornithomimidae",
+      "type": " large theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "USA"
+      ],
+      "length": null,
+      "live": "Late Jurassic, 154-142 million years ago",
+      "name": "Gargoyleosaurus",
+      "nameMeaning": "'gargoyle lizard'",
+      "namedBy": "Carpenter, Miles and Cloward (1998)",
+      "pronunciation": "gahr-goy-lee-oh-sore-us",
+      "species": "parkpinorum",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Thyreophora, Ankylosauromorpha, Ankylosauria",
+      "type": " armoured dinosaur",
+      "weight": null
+    },
+    {
+      "diet": [
+        "omnivorous"
+      ],
+      "foundIn": [
+        "Mongolia"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 99-89 million years ago",
+      "name": "Garudimimus",
+      "nameMeaning": "'Garuda mimic'",
+      "namedBy": "Barsbold (1981)",
+      "pronunciation": "ga-roo-dee-meem-us",
+      "species": "brevipes",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Coelurosauria, Tyrannoraptora, Maniraptoriformes, Ornithomimosauria",
+      "type": " large theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "carnivorous"
+      ],
+      "foundIn": [
+        "China"
+      ],
+      "length": null,
+      "live": "Mid Jurassic, 170-160 million years ago",
+      "name": "Gasosaurus",
+      "nameMeaning": "'gas lizard'",
+      "namedBy": "Dong and Tang (1985)",
+      "pronunciation": "gas-oh-SORE-us",
+      "species": "constructus",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda",
+      "type": " small theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "Argentina"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 86-71 million years ago",
+      "name": "Gasparinisaura",
+      "nameMeaning": "'Gasparini's lizard'",
+      "namedBy": "Coria and Salgado (1996)",
+      "pronunciation": "gas-pah-reen-ee-sore-us",
+      "species": "cincosaltensis",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Cerapoda, Ornithopoda, Euornithopoda",
+      "type": " euornithopod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "USA"
+      ],
+      "length": null,
+      "live": "Early Cretaceous, 142-127 million years ago",
+      "name": "Gastonia",
+      "nameMeaning": "'[Robert] Gaston'",
+      "namedBy": "Kirkland (1998)",
+      "pronunciation": "gas-toh-nee-ah",
+      "species": "burgei",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Thyreophora, Ankylosauromorpha, Ankylosauria",
+      "type": " armoured dinosaur",
+      "weight": null
+    },
+    {
+      "diet": [
+        "carnivorous"
+      ],
+      "foundIn": [
+        "Argentina"
+      ],
+      "length": null,
+      "live": "Early Cretaceous, 112-90 million years ago",
+      "name": "Giganotosaurus",
+      "nameMeaning": "'giant southern lizard'",
+      "namedBy": "Coria and Salgado (1995)",
+      "pronunciation": "gig-an-OH-toe-SORE-us",
+      "species": "carolinii",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Carnosauria, Allosauroidea, Carcharodontosauridae",
+      "type": " large theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "China"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 76-70 million years ago",
+      "name": "Gilmoreosaurus",
+      "nameMeaning": "'Gilmore's lizard'",
+      "namedBy": "Brett-Surman (1979)",
+      "pronunciation": "GIL-more-oh-SORE-us",
+      "species": "mongoliensis",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Cerapoda, Ornithopoda, Euornithopoda, Iguanadontia, Euiguanadontia, Dryomorpha, Ankylopollexia, Iguanodontoidea, Hadrosauridae",
+      "type": " euornithopod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "Tanzania"
+      ],
+      "length": null,
+      "live": "Late Jurassic, 154-142 million years ago",
+      "name": "Giraffatitan",
+      "nameMeaning": "'giraffe titan'",
+      "namedBy": "Janensch (1914)",
+      "pronunciation": "ji-raf-a-tie-tan",
+      "species": "brancai",
+      "taxonomy": "Dinosauria, Saurischia, Sauropodomorpha, Sauropoda, Eusauropoda, Neosauropoda, Macronaria, Camarasauromorpha, Titanosauriformes, Brachiosauridae",
+      "type": " sauropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "China"
+      ],
+      "length": null,
+      "live": "Early Cretaceous, 121-99 million years ago",
+      "name": "Gobisaurus",
+      "nameMeaning": "'Gobi lizard'",
+      "namedBy": "Vickaryous, Russell, Currie and Zhao (2001)",
+      "pronunciation": "goh-bee-sore-us",
+      "species": "domoculus",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Thyreophora, Ankylosauromorpha, Ankylosauria, Ankylosauridae",
+      "type": " armoured dinosaur",
+      "weight": null
+    },
+    {
+      "diet": [
+        "carnivorous"
+      ],
+      "foundIn": [
+        "Canada",
+        "USA"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 80-73 million years ago",
+      "name": "Gorgosaurus",
+      "nameMeaning": "'fierce lizard'",
+      "namedBy": "Lamb (1914)",
+      "pronunciation": "gor-goh-sore-us",
+      "species": "libratus",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Coelurosauria, Tyrannoraptora, Tyrannosauroidea, Tyrannosauridae, Albertosaurinae",
+      "type": " large theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "Mongolia"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 81-75 million years ago",
+      "name": "Goyocephale",
+      "nameMeaning": "'decorated head'",
+      "namedBy": "Perle, Marya\u0144ska and Osm\u00f3lska (1982)",
+      "pronunciation": "goy-oh-keff-ah-lee",
+      "species": "lattimorei",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Cerapoda, Marginocephalia, Pachycephalosauria, Goyocephala",
+      "type": " large theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "Mongolia"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 99-84 million years ago",
+      "name": "Graciliceratops",
+      "nameMeaning": "'gracile horned face'",
+      "namedBy": "Sereno (2000)",
+      "pronunciation": "gras-i-li-serra-tops",
+      "species": "mongoliensis",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Cerapoda, Marginocephalia, Ceratopsia, Neoceratopsia",
+      "type": " ceratopsian",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "Canada",
+        "USA"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 86-71 million years ago",
+      "name": "Gryposaurus",
+      "nameMeaning": "'hook-nosed lizard'",
+      "namedBy": "Lambe (1914)",
+      "pronunciation": "grip-oh-sore-us",
+      "species": "notabilis",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Cerapoda, Ornithopoda, Euornithopoda, Iguanadontia, Euiguanadontia, Dryomorpha, Ankylopollexia, Iguanodontoidea, Hadrosauridae, Euhadrosauria, Hadrosaurinae",
+      "type": " euornithopod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "Brazil"
+      ],
+      "length": null,
+      "live": "Late Triassic, 221-210 million years ago",
+      "name": "Guaibasaurus",
+      "nameMeaning": "'[Rio] Guaiba lizard'",
+      "namedBy": "Bonaparte, Ferigolo and Ribeiro (1999)",
+      "pronunciation": "gwie-bah-sore-us",
+      "species": "candelariensis",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda",
+      "type": " small theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "carnivorous"
+      ],
+      "foundIn": [
+        "China"
+      ],
+      "length": null,
+      "live": "Late Jurassic, 159-154 million years ago",
+      "name": "Guanlong",
+      "nameMeaning": "'crowned dragon'",
+      "namedBy": "Xu, Clark, Forster, Norell, Erickson, Eberth, Jia and Zhao (2006)",
+      "pronunciation": "gwan-long",
+      "species": "wucaii",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Coelurosauria, Tyrannoraptora, Tyrannosauroidea",
+      "type": " small theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "USA"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 78-74 million years ago",
+      "name": "Hadrosaurus",
+      "nameMeaning": "'big lizard'",
+      "namedBy": "Leidy (1858)",
+      "pronunciation": "HAD-row-SORE-us",
+      "species": "foulkii",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Cerapoda, Ornithopoda, Euornithopoda, Iguanadontia, Euiguanadontia, Dryomorpha, Ankylopollexia, Iguanodontoidea, Hadrosauridae, Euhadrosauria, Hadrosaurinae",
+      "type": " euornithopod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "omnivorous"
+      ],
+      "foundIn": [
+        "USA"
+      ],
+      "length": null,
+      "live": null,
+      "name": "Hagryphus",
+      "nameMeaning": "'Ha (Egyptian god of the western desert) griffin'",
+      "namedBy": "Zanno and Sampson (2005)",
+      "pronunciation": "ha-grif-us",
+      "species": "giganteus",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Coelurosauria, Tyrannoraptora, Maniraptoriformes, Maniraptora, Oviraptorosauria",
+      "type": " small theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "USA"
+      ],
+      "length": null,
+      "live": "Late Jurassic, 154-142 million years ago",
+      "name": "Haplocanthosaurus",
+      "nameMeaning": "'simple-spined lizard'",
+      "namedBy": "Hatcher (1903)",
+      "pronunciation": "hap-lo-kan-tho-sore-us",
+      "species": "priscus",
+      "taxonomy": "Dinosauria, Saurischia, Sauropodomorpha, Sauropoda, Eusauropoda, Neosauropoda, Macronaria, Camarasauromorpha, Camarasauridae",
+      "type": " sauropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "omnivorous"
+      ],
+      "foundIn": [
+        "Mongolia"
+      ],
+      "length": null,
+      "live": "Early Cretaceous, 121-99 million years ago",
+      "name": "Harpymimus",
+      "nameMeaning": "'harpy mimic'",
+      "namedBy": "Barsbold and Perle (1984)",
+      "pronunciation": "har-pi-miem-us",
+      "species": "okladnikovi",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Coelurosauria, Tyrannoraptora, Maniraptoriformes, Ornithomimosauria",
+      "type": " small theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "carnivorous"
+      ],
+      "foundIn": [
+        "Argentina"
+      ],
+      "length": null,
+      "live": "Late Triassic, 228 million years ago",
+      "name": "Herrerasaurus",
+      "nameMeaning": "'Herrera's lizard'",
+      "namedBy": "Reig (1963)",
+      "pronunciation": "herr-ray-rah-SORE-us",
+      "species": "ischigualastensis",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Herrerasauridae",
+      "type": " small theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "USA"
+      ],
+      "length": null,
+      "live": "Late Jurassic, 154-142 million years ago",
+      "name": "Hesperosaurus",
+      "nameMeaning": "'western lizard'",
+      "namedBy": "Carpenter, Miles and Cloward (2001)",
+      "pronunciation": "hes-per-oh-sore-us",
+      "species": "mjosi",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Thyreophora, Stegosauria, Stegosauridae, Stegosaurinae",
+      "type": " armoured dinosaur",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "Lesotho",
+        "South Africa"
+      ],
+      "length": null,
+      "live": "Early Jurassic, 205 million years ago",
+      "name": "Heterodontosaurus",
+      "nameMeaning": "'different-teeth lizard'",
+      "namedBy": "Crompton and Charig (1962)",
+      "pronunciation": "HET-er-oh-DON\u2019T-oh-sore-us",
+      "species": "tucki",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Cerapoda, Heterodontosauridae",
+      "type": " euornithopod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "omnivorous"
+      ],
+      "foundIn": [
+        "Mongolia"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 72-68 million years ago",
+      "name": "Heyuannia",
+      "nameMeaning": "'from [the city of] Heyuan'",
+      "namedBy": "Barsbold (1981)",
+      "pronunciation": "Hey-YOU-ARN-ee-ah",
+      "species": "yanshini",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Coelurosauria, Tyrannoraptora, Maniraptoriformes, Maniraptora, Oviraptorosauria, Caenagnathoidea, Oviraptoridae, Ingeniinae",
+      "type": " small theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "Mongolia"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 72-68 million years ago",
+      "name": "Homalocephale",
+      "nameMeaning": "'level head'",
+      "namedBy": "Marya\u0144ska and Osm\u00f3lska (1974)",
+      "pronunciation": "Home-ah-loh-keff-ah-lee",
+      "species": "calathocercos",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Cerapoda, Marginocephalia, Pachycephalosauria, Goyocephala, Homalocephaloidea",
+      "type": " euornithopod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "China"
+      ],
+      "length": null,
+      "live": "Mid Jurassic, 170-160 million years ago",
+      "name": "Huayangosaurus",
+      "nameMeaning": "'Huayang lizard'",
+      "namedBy": "Dong, Tang and Zhou (1982)",
+      "pronunciation": "hoy-YANG-oh-SORE-us",
+      "species": "taibaii",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Thyreophora, Stegosauria, Huayangosauridae",
+      "type": " armoured dinosaur",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "England",
+        "United Kingdom"
+      ],
+      "length": null,
+      "live": "Early Cretaceous, 150-135 million years ago",
+      "name": "Hylaeosaurus",
+      "nameMeaning": "'woodland lizard'",
+      "namedBy": "Mantell (1833)",
+      "pronunciation": "HIGH-lee-oh-sore-us",
+      "species": "armatus",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Thyreophora, Ankylosauromorpha, Ankylosauria",
+      "type": " armoured dinosaur",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "Canada",
+        "USA"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 70 million years ago",
+      "name": "Hypacrosaurus",
+      "nameMeaning": "'near-topmost lizard'",
+      "namedBy": "Brown (1913)",
+      "pronunciation": "hi-pak-roh-sore-us",
+      "species": "altispinus",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Cerapoda, Ornithopoda, Euornithopoda, Iguanadontia, Euiguanadontia, Dryomorpha, Ankylopollexia, Iguanodontoidea, Hadrosauridae, Euhadrosauria, Lambeosaurinae",
+      "type": " euornithopod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "England",
+        "Spain",
+        "United Kingdom"
+      ],
+      "length": null,
+      "live": "Early Cretaceous, 125 million years ago",
+      "name": "Hypsilophodon",
+      "nameMeaning": "'high-ridge tooth'",
+      "namedBy": "Huxley (1869)",
+      "pronunciation": "hip-sih-LOH-foh-don",
+      "species": "foxii",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Cerapoda, Ornithopoda, Euornithopoda, Hypsilophodontidae",
+      "type": " euornithopod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "Belgium",
+        "England",
+        "United Kingdom"
+      ],
+      "length": null,
+      "live": "Early Cretaceous, 140-110 million years ago",
+      "name": "Iguanodon",
+      "nameMeaning": "'iguana tooth'",
+      "namedBy": "Boulenger and van Beneden (1881)",
+      "pronunciation": "ig-WHA-noh-don",
+      "species": "bernissartensis",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Cerapoda, Ornithopoda, Euornithopoda, Iguanadontia, Euiguanadontia, Dryomorpha, Ankylopollexia, Iguanodontoidea",
+      "type": " euornithopod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "carnivorous"
+      ],
+      "foundIn": [
+        "India"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 71-65 million years ago",
+      "name": "Indosuchus",
+      "nameMeaning": "'Indian crocodile'",
+      "namedBy": "Huene and Matley (1933)",
+      "pronunciation": "in-doh-sook-us",
+      "species": "raptorius",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Ceratosauria, Neoceratosauria",
+      "type": " large theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "carnivorous"
+      ],
+      "foundIn": [
+        "Brazil"
+      ],
+      "length": null,
+      "live": "Early Cretaceous, 112-99 million years ago",
+      "name": "Irritator",
+      "nameMeaning": "'irritator'",
+      "namedBy": "Martill, Cruickshank, Frey, Small and Clarke (1996)",
+      "pronunciation": "irr-it-ate-or",
+      "species": "challengeri",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Spinosauroidea, Spinosauridae, Spinosaurinae",
+      "type": " large theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "India"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 71-65 million years ago",
+      "name": "Isisaurus",
+      "nameMeaning": "'ISI (Indian Statistical Institute) lizard'",
+      "namedBy": "Jain and Bandyopadhyay (1997)",
+      "pronunciation": "iss-ee-sore-us",
+      "species": "colberti",
+      "taxonomy": "Dinosauria, Saurischia, Sauropodomorpha, Sauropoda, Eusauropoda, Neosauropoda, Macronaria, Camarasauromorpha, Titanosauriformes, Titanosauria, Lithostrotia",
+      "type": " sauropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "Tanzania"
+      ],
+      "length": null,
+      "live": "Late Jurassic, 154-151 million years ago",
+      "name": "Janenschia",
+      "nameMeaning": "'named after Janansch'",
+      "namedBy": "Wild (1991)",
+      "pronunciation": "yan-ensh-ee-ah",
+      "species": "robusta",
+      "taxonomy": "Dinosauria, Saurischia, Sauropodomorpha, Sauropoda, Eusauropoda, Neosauropoda, Macronaria, Camarasauromorpha, Titanosauriformes, Titanosauria",
+      "type": " sauropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "Kazakhstan"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 94-84 million years ago",
+      "name": "Jaxartosaurus",
+      "nameMeaning": "'Jaxartes [River] lizard'",
+      "namedBy": "Riabinin (1939)",
+      "pronunciation": "jak-sahr-toh-sore-us",
+      "species": "aralensis",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Cerapoda, Ornithopoda, Euornithopoda, Iguanadontia, Euiguanadontia, Dryomorpha, Ankylopollexia, Iguanodontoidea, Hadrosauridae, Euhadrosauria, Lambeosaurinae",
+      "type": " euornithopod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "China"
+      ],
+      "length": null,
+      "live": "Early Jurassic, 205-190 million years ago",
+      "name": "Jingshanosaurus",
+      "nameMeaning": "'Jingshan lizard'",
+      "namedBy": "Zhang and Yang (1995)",
+      "pronunciation": "jing-shahn-oh-sore-us",
+      "species": "xinwaensis",
+      "taxonomy": "Dinosauria, Saurischia, Sauropodomorpha, Prosauropoda, Plateosauria",
+      "type": " sauropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "China"
+      ],
+      "length": null,
+      "live": "Early Cretaceous, 127-121 million years ago",
+      "name": "Jinzhousaurus",
+      "nameMeaning": "'Jinzhou lizard'",
+      "namedBy": "Wang and Xu (2001)",
+      "pronunciation": "jeen-joh-sore-us",
+      "species": "yangi",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Cerapoda, Ornithopoda, Euornithopoda, Iguanadontia, Euiguanadontia, Dryomorpha, Ankylopollexia, Iguanodontoidea",
+      "type": " euornithopod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "Niger"
+      ],
+      "length": null,
+      "live": "Early Cretaceous, 132-94 million years ago",
+      "name": "Jobaria",
+      "nameMeaning": "'Jobar (mythical animal)'",
+      "namedBy": "Sereno, Beck, Dutheil, Larsson, Lyon, Moussa, Sadleir, Sidor, Varricchio, Wilson and Wilson (1999)",
+      "pronunciation": "joh-bahr-ee-uh",
+      "species": "tiguidensis",
+      "taxonomy": "Dinosauria, Saurischia, Sauropodomorpha, Sauropoda, Eusauropoda, Neosauropoda, Macronaria",
+      "type": " sauropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "carnivorous"
+      ],
+      "foundIn": [
+        "Germany"
+      ],
+      "length": null,
+      "live": "Late Jurassic, 154-151 million years ago",
+      "name": "Juravenator",
+      "nameMeaning": "'Jura (Bavarian mountains) hunter'",
+      "namedBy": "G\u00f6hlich & Chiappe (2006)",
+      "pronunciation": "ju-rah-ve-nay-tor",
+      "species": "starki",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Coelurosauria, Compsognathidae",
+      "type": " small theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "Tanzania"
+      ],
+      "length": null,
+      "live": "Late Jurassic, 155-150 million years ago",
+      "name": "Kentrosaurus",
+      "nameMeaning": "'spiky lizard'",
+      "namedBy": "Hennig (1915)",
+      "pronunciation": "ken-TROH-sore-us",
+      "species": "aethiopicus",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Thyreophora, Stegosauria, Stegosauridae, Stegosaurinae",
+      "type": " armoured dinosaur",
+      "weight": null
+    },
+    {
+      "diet": [
+        "omnivorous"
+      ],
+      "foundIn": [
+        "Mongolia"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 81-75 million years ago",
+      "name": "Khaan",
+      "nameMeaning": "'ruler'",
+      "namedBy": "Clark, Norell and Barsbold (2001)",
+      "pronunciation": "kahn",
+      "species": "mckennai",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Coelurosauria, Tyrannoraptora, Maniraptoriformes, Maniraptora, Oviraptorosauria, Caenagnathoidea, Oviraptoridae, Ingeniinae",
+      "type": " small theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "India"
+      ],
+      "length": null,
+      "live": "Early Jurassic, 205-180 million years ago",
+      "name": "Kotasaurus",
+      "nameMeaning": "'Kota lizard'",
+      "namedBy": "Yadagiri (1988)",
+      "pronunciation": "koht-a-sore-us",
+      "species": "yamanpalliensis",
+      "taxonomy": "Dinosauria, Saurischia, Sauropodomorpha, Sauropoda",
+      "type": " sauropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "Argentina",
+        "USA"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 78-74 million years ago",
+      "name": "Kritosaurus",
+      "nameMeaning": "'noble lizard'",
+      "namedBy": "Brown (1910)",
+      "pronunciation": "KRIT-oh-SORE-us",
+      "species": "navajovius",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Cerapoda, Ornithopoda, Euornithopoda, Iguanadontia, Euiguanadontia, Dryomorpha, Ankylopollexia, Iguanodontoidea, Hadrosauridae, Euhadrosauria, Hadrosaurinae",
+      "type": " euornithopod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "Canada"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 76-74 million years ago",
+      "name": "Lambeosaurus",
+      "nameMeaning": "'Lambe's lizard'",
+      "namedBy": "Parks (1923)",
+      "pronunciation": "lam-BEE-oh-SORE-us",
+      "species": "lambei",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Cerapoda, Ornithopoda, Euornithopoda, Iguanadontia, Euiguanadontia, Dryomorpha, Ankylopollexia, Iguanodontoidea, Hadrosauridae, Euhadrosauria, Lambeosaurinae",
+      "type": " euornithopod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "Madagascar"
+      ],
+      "length": null,
+      "live": "Mid Jurassic, 169-164 million years ago",
+      "name": "Lapparentosaurus",
+      "nameMeaning": "'Lapparent's lizard'",
+      "namedBy": "Bonaparte (1986)",
+      "pronunciation": "la-pah-rent-oh-sore-us",
+      "species": "madagascariensis",
+      "taxonomy": "Dinosauria, Saurischia, Sauropodomorpha, Sauropoda, Eusauropoda, Neosauropoda, Macronaria, Camarasauromorpha, Titanosauriformes",
+      "type": " sauropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "Australia"
+      ],
+      "length": null,
+      "live": "Early Cretaceous, 115-110 million years ago",
+      "name": "Leaellynasaura",
+      "nameMeaning": "'Leaellyn's lizard'",
+      "namedBy": "Rich and Rich (1989)",
+      "pronunciation": "LEE-ELL-IN-a-SORE-a",
+      "species": "amicagraphica",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Cerapoda, Ornithopoda, Euornithopoda",
+      "type": " euornithopod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "Canada",
+        "USA"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 67-65 million years ago",
+      "name": "Leptoceratops",
+      "nameMeaning": "'slim horned face'",
+      "namedBy": "Brown (1914)",
+      "pronunciation": "lep-toh-ker-ah-tops",
+      "species": "gracilis",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Cerapoda, Marginocephalia, Ceratopsia, Neoceratopsia, Coronosauria",
+      "type": " ceratopsian",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "Lesotho"
+      ],
+      "length": null,
+      "live": "Early Jurassic, 213-200 million years ago",
+      "name": "Lesothosaurus",
+      "nameMeaning": "'Lesotho lizard'",
+      "namedBy": "Galton (1978)",
+      "pronunciation": "Le-SO-toe-sore-us",
+      "species": "diagnosticus",
+      "taxonomy": "Dinosauria, Ornithischia",
+      "type": null,
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "China"
+      ],
+      "length": null,
+      "live": "Early Cretaceous, 127-121 million years ago",
+      "name": "Liaoceratops",
+      "nameMeaning": "'Liaoning horned face'",
+      "namedBy": "Xu, Makovicky, Wang, Norell and You (2002)",
+      "pronunciation": "lyow-serra-tops",
+      "species": "yanzigouensis",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Cerapoda, Marginocephalia, Ceratopsia, Neoceratopsia",
+      "type": " ceratopsian",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "Argentina"
+      ],
+      "length": null,
+      "live": "Early Cretaceous, 121-99 million years ago",
+      "name": "Ligabuesaurus",
+      "nameMeaning": "'[Dr Giancarlo] Ligabue lizard'",
+      "namedBy": "Bonaparte, Gonz\u00e1lez Riga and Apestegu\u00eda (2006)",
+      "pronunciation": "lee-gah-boo-sore-us",
+      "species": "leanzai",
+      "taxonomy": "Dinosauria, Saurischia, Sauropodomorpha, Sauropoda, Eusauropoda, Neosauropoda, Macronaria, Camarasauromorpha, Titanosauriformes, Titanosauria",
+      "type": " sauropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "carnivorous"
+      ],
+      "foundIn": [
+        "France",
+        "Germany"
+      ],
+      "length": null,
+      "live": "Late Triassic, 205-202 million years ago",
+      "name": "Liliensternus",
+      "nameMeaning": "'[for] Lilienstern'",
+      "namedBy": "Huene (1934)",
+      "pronunciation": "lil-ee-en-shtern-us",
+      "species": "liliensterni",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda",
+      "type": " small theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "USA"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 84-71 million years ago",
+      "name": "Lophorhothon",
+      "nameMeaning": "'crested nose'",
+      "namedBy": "Xu, Makovicky, Wang, Norell and You (1960)",
+      "pronunciation": "lof-oh-roh-thon",
+      "species": "atopus",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Cerapoda, Ornithopoda, Euornithopoda, Iguanadontia, Euiguanadontia, Dryomorpha, Ankylopollexia, Iguanodontoidea, Hadrosauridae, Euhadrosauria, Hadrosaurinae",
+      "type": " euornithopod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "carnivorous"
+      ],
+      "foundIn": [
+        "France"
+      ],
+      "length": null,
+      "live": "Early Jurassic, 203-196 million years ago",
+      "name": "Lophostropheus",
+      "nameMeaning": "'crested verebra'",
+      "namedBy": "Ezcurra and Cuny 2007 (1993)",
+      "pronunciation": "lof-oh-stro-fee-us",
+      "species": "airelensis",
+      "taxonomy": "Dinosauria, Saurischia",
+      "type": " large theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "China"
+      ],
+      "length": null,
+      "live": "Early Jurassic, 200-195 million years ago",
+      "name": "Lufengosaurus",
+      "nameMeaning": "'Lufeng lizard'",
+      "namedBy": "Young (1941)",
+      "pronunciation": "Loo-FUNG-oh-SORE-us",
+      "species": "huenei",
+      "taxonomy": "Dinosauria, Saurischia, Sauropodomorpha, Prosauropoda, Plateosauria, Plateosauridae",
+      "type": " sauropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "Niger"
+      ],
+      "length": null,
+      "live": "Early Cretaceous, 121-112 million years ago",
+      "name": "Lurdusaurus",
+      "nameMeaning": "'heavy lizard'",
+      "namedBy": "Taquet & Russell (1999)",
+      "pronunciation": "loor-duh-sore-us",
+      "species": "arenatus",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Cerapoda, Ornithopoda, Euornithopoda, Iguanadontia, Euiguanadontia, Dryomorpha, Ankylopollexia, Iguanodontoidea",
+      "type": " euornithopod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "South Africa"
+      ],
+      "length": null,
+      "live": "Late Triassic, 205-195 million years ago",
+      "name": "Lycorhinus",
+      "nameMeaning": "'wolf snout'",
+      "namedBy": "Haughton (1924)",
+      "pronunciation": "liek-oh-rien-us",
+      "species": "angustidens",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Cerapoda, Heterodontosauridae",
+      "type": " euornithopod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "Romania"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 71-65 million years ago",
+      "name": "Magyarosaurus",
+      "nameMeaning": "'Magyar lizard'",
+      "namedBy": "Nopcsa (1915)",
+      "pronunciation": "mod-yar-oh-sore-us",
+      "species": "dacus",
+      "taxonomy": "Dinosauria, Saurischia, Sauropodomorpha, Sauropoda, Eusauropoda, Neosauropoda, Macronaria, Camarasauromorpha, Titanosauriformes, Titanosauria, Lithostrotia",
+      "type": " sauropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "USA"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 80-75 million years ago",
+      "name": "Maiasaura",
+      "nameMeaning": "'good mother lizard'",
+      "namedBy": "Horner and Makela (1979)",
+      "pronunciation": "my-ah-SORE-ah",
+      "species": "peeblesorum",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Cerapoda, Ornithopoda, Euornithopoda, Iguanadontia, Euiguanadontia, Dryomorpha, Ankylopollexia, Iguanodontoidea, Hadrosauridae, Euhadrosauria, Hadrosaurinae",
+      "type": " euornithopod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "carnivorous"
+      ],
+      "foundIn": [
+        "Madagascar"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 84-71 million years ago",
+      "name": "Majungasaurus",
+      "nameMeaning": "'Majunga lizard'",
+      "namedBy": "Sues & Taquet (1979)",
+      "pronunciation": "mah-joon-gah-sore-us",
+      "species": "atopus",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Ceratosauria, Neoceratosauria, Abelisauridae",
+      "type": " large theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "Malawi"
+      ],
+      "length": null,
+      "live": "Early Cretaceous, 121-112 million years ago",
+      "name": "Malawisaurus",
+      "nameMeaning": "'Malawi lizard'",
+      "namedBy": "Haughton (1928)",
+      "pronunciation": "mah-lah-wee-sore-us",
+      "species": "dixeyi",
+      "taxonomy": "Dinosauria, Saurischia, Sauropodomorpha, Sauropoda, Eusauropoda, Neosauropoda, Macronaria, Camarasauromorpha, Titanosauriformes, Titanosauria, Lithostrotia",
+      "type": " sauropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "China"
+      ],
+      "length": null,
+      "live": "Late Jurassic, 155-145 million years ago",
+      "name": "Mamenchisaurus",
+      "nameMeaning": "'Mamenchi lizard'",
+      "namedBy": "Young (1954)",
+      "pronunciation": "mah-men-chi-sore-us",
+      "species": "constructus",
+      "taxonomy": "Dinosauria, Saurischia, Sauropodomorpha, Sauropoda, Eusauropoda",
+      "type": " sauropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "carnivorous"
+      ],
+      "foundIn": [
+        "Argentina"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 99-94 million years ago",
+      "name": "Mapusaurus",
+      "nameMeaning": "'Earth (Mapuche language, Patagonia) lizard'",
+      "namedBy": "Coria and Currie (2006)",
+      "pronunciation": "mah-puh-sore-us",
+      "species": "roseae",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Carnosauria, Allosauroidea, Allosauridae, Charcharodontosauridae, Giganotosaurinae",
+      "type": " large theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "carnivorous"
+      ],
+      "foundIn": [
+        "USA"
+      ],
+      "length": null,
+      "live": "Late Jurassic, 154-142 million years ago",
+      "name": "Marshosaurus",
+      "nameMeaning": "'[Othniel Charles] Marsh lizard'",
+      "namedBy": "Madsen (1976)",
+      "pronunciation": "marsh-oh-sore-us",
+      "species": "bicentesimus",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda",
+      "type": " large theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "carnivorous"
+      ],
+      "foundIn": [
+        "Madagascar"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 84-71 million years ago",
+      "name": "Masiakasaurus",
+      "nameMeaning": "'vicious lizard'",
+      "namedBy": "Sampson, Carrano & Forster (2001)",
+      "pronunciation": "mah-shee-ah-kah-sore-us",
+      "species": "knopfleri",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Ceratosauria, Neoceratosauria, Abelisauroidea, Abelisauria",
+      "type": " small theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "omnivorous"
+      ],
+      "foundIn": [
+        "Lesotho",
+        "South Africa",
+        "Zimbabwe"
+      ],
+      "length": null,
+      "live": "Early Jurassic, 208-204 million years ago",
+      "name": "Massospondylus",
+      "nameMeaning": "'massive vertebrae'",
+      "namedBy": "Owen (1854)",
+      "pronunciation": "mass-oh-SPON-di-luss",
+      "species": "carinatus",
+      "taxonomy": "Dinosauria, Saurischia, Sauropodomorpha, Prosauropoda, Plateosauria, Plateosauridae",
+      "type": " sauropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "Brazil"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 80 million years ago",
+      "name": "Maxakalisaurus",
+      "nameMeaning": "'Maxakali (tribe of Brazil) lizard'",
+      "namedBy": "Kellner et al. (2006)",
+      "pronunciation": "max-aka-li-sore-us",
+      "species": "topai",
+      "taxonomy": "Dinosauria, Saurischia, Sauropodomorpha, Sauropoda, Eusauropoda, Neosauropoda, Macronaria, Camarasauromorpha, Titanosauriformes, Titanosauria, Lithostrotia, Saltasauridae, Saltasaurinae",
+      "type": " sauropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "carnivorous"
+      ],
+      "foundIn": [
+        "England",
+        "United Kingdom"
+      ],
+      "length": null,
+      "live": "Mid Jurassic, 170-155 million years ago",
+      "name": "Megalosaurus",
+      "nameMeaning": "'big lizard'",
+      "namedBy": "Ritgen (1826)",
+      "pronunciation": "MEG-ah-low-sore-us",
+      "species": "bucklandii",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Spinosauroidea, Megalosauridae, Megalosaurinae",
+      "type": " large theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "omnivorous"
+      ],
+      "foundIn": [
+        "South Africa"
+      ],
+      "length": null,
+      "live": "Late Triassic, 227-221 million years ago",
+      "name": "Melanorosaurus",
+      "nameMeaning": "'Black [Mountain] lizard'",
+      "namedBy": "Haughton (1924)",
+      "pronunciation": "me-lan-or-oh-sore-us",
+      "species": "readi",
+      "taxonomy": "Dinosauria, Saurischia, Sauropodomorpha, Prosauropoda, Anchisauria, Melanorosauridae",
+      "type": " sauropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "carnivorous"
+      ],
+      "foundIn": [
+        "England",
+        "United Kingdom"
+      ],
+      "length": null,
+      "live": "Late Jurassic, 159-154 million years ago",
+      "name": "Metriacanthosaurus",
+      "nameMeaning": "'moderately-spined lizard'",
+      "namedBy": "Walker (1964)",
+      "pronunciation": "met-ree-a-kan-tho-sore-us",
+      "species": "parkeri",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae",
+      "type": " large theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "China",
+        "Mongolia"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 86-66 million years ago",
+      "name": "Microceratus",
+      "nameMeaning": "'tiny horned'",
+      "namedBy": "Bohlin (1953)",
+      "pronunciation": "mike-row-ker-ah-tuss",
+      "species": "gobiensis",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Cerapoda, Marginocephalia, Ceratopsia, Neoceratopsia, Coronosauria",
+      "type": " ceratopsian",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "China"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 84-71 million years ago",
+      "name": "Micropachycephalosaurus",
+      "nameMeaning": "'tiny thick-headed lizard'",
+      "namedBy": "Dong (1978)",
+      "pronunciation": "mike-row-pak-ee-keff-ah-loh-sore-us",
+      "species": "hongtuyanensis",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Cerapoda, Marginocephalia, Pachycephalosauria",
+      "type": " ceratopsian",
+      "weight": null
+    },
+    {
+      "diet": [
+        "carnivorous"
+      ],
+      "foundIn": [
+        "China"
+      ],
+      "length": null,
+      "live": "Early Cretaceous, 125-122 million years ago",
+      "name": "Microraptor",
+      "nameMeaning": "'tiny plunderer'",
+      "namedBy": "Xu, Zhou and Wang (2000)",
+      "pronunciation": "MIKE-row-rap-tor",
+      "species": "zhaoianus",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Coelurosauria, Tyrannoraptora, Maniraptoriformes, Maniraptora, Paraves, Eumaniraptora, Dromaeosauridae",
+      "type": " small theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "Australia"
+      ],
+      "length": null,
+      "live": "Early Cretaceous, 121-112 million years ago",
+      "name": "Minmi",
+      "nameMeaning": "'named after Minmi Crossing, Queensland'",
+      "namedBy": "Molnar (1980)",
+      "pronunciation": "min-mie",
+      "species": "paravertebra",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Thyreophora, Ankylosauromorpha, Ankylosauria",
+      "type": " armoured dinosaur",
+      "weight": null
+    },
+    {
+      "diet": [
+        "carnivorous"
+      ],
+      "foundIn": [
+        "China"
+      ],
+      "length": null,
+      "live": "Mid Jurassic, 180-159 million years ago",
+      "name": "Monolophosaurus",
+      "nameMeaning": "'single-crested lizard'",
+      "namedBy": "Zhao and Currie (1993)",
+      "pronunciation": "mono-Loh-foh-sore-us",
+      "species": "jiangi",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Carnosauria",
+      "type": " large theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "unknown"
+      ],
+      "foundIn": [
+        "China",
+        "Mongolia"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 81-68 million years ago",
+      "name": "Mononykus",
+      "nameMeaning": "'single claw'",
+      "namedBy": "Perle, Norell, Chiappe and Clark (1993)",
+      "pronunciation": "mono-Nike-us",
+      "species": "olecranus",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Coelurosauria, Tyrannoraptora, Maniraptoriformes, Maniraptora, Alvarezsauridae",
+      "type": " small theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "Argentina"
+      ],
+      "length": null,
+      "live": "Late Triassic, 221-210 million years ago",
+      "name": "Mussaurus",
+      "nameMeaning": "'mouse lizard'",
+      "namedBy": "Bonaparte and Vince (1979)",
+      "pronunciation": "moos-SORE-us",
+      "species": "patagonicus",
+      "taxonomy": "Dinosauria, Saurischia, Sauropodomorpha, Prosauropoda, Plateosauria, Plateosauridae",
+      "type": " sauropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "Australia"
+      ],
+      "length": null,
+      "live": "Early Cretaceous, 110-100 million years ago",
+      "name": "Muttaburrasaurus",
+      "nameMeaning": "'Muttaburra lizard'",
+      "namedBy": "Bartholomai and Molnar (1981)",
+      "pronunciation": "MUT-a-BURR-a-SORE-us",
+      "species": "langdoni",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Cerapoda, Ornithopoda, Euornithopoda, Iguanadontia, Euiguanadontia, Dryomorpha, Ankylopollexia, Iguanodontoidea",
+      "type": " euornithopod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "omnivorous"
+      ],
+      "foundIn": [
+        "China"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 84-71 million years ago",
+      "name": "Nanshiungosaurus",
+      "nameMeaning": "'Nanxiong lizard'",
+      "namedBy": "Dong (1979)",
+      "pronunciation": "nahn-shyung-oh-sore-us",
+      "species": "brevispinus",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Coelurosauria, Tyrannoraptora, Maniraptoriformes, Maniraptora, Therizinosauroidea, Therizinosauridae",
+      "type": " large theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "USA"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 67-65 million years ago",
+      "name": "Nedoceratops",
+      "nameMeaning": "'insufficient horned face'",
+      "namedBy": "Lull (1905)",
+      "pronunciation": "ned-o-ker-ah-tops",
+      "species": "hatcheri",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Cerapoda, Marginocephalia, Ceratopsia, Neoceratopsia, Coronosauria, Ceratopsidae, Chasmosaurinae",
+      "type": " ceratopsian",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "Mongolia"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 72-68 million years ago",
+      "name": "Nemegtosaurus",
+      "nameMeaning": "'Nemegt lizard'",
+      "namedBy": "Nowinski (1971)",
+      "pronunciation": "Nem-egg-tow-sore-us",
+      "species": "mongoliensis",
+      "taxonomy": "Dinosauria, Saurischia, Sauropodomorpha, Sauropoda, Eusauropoda, Neosauropoda, Diplodocoidea, Nemegtosauridae",
+      "type": " sauropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "carnivorous"
+      ],
+      "foundIn": [
+        "England",
+        "United Kingdom"
+      ],
+      "length": null,
+      "live": "Early Cretaceous, 127-121 million years ago",
+      "name": "Neovenator",
+      "nameMeaning": "'new hunter'",
+      "namedBy": "Hutt, Martill and Barker (1996)",
+      "pronunciation": "nee-oh-ve-nay-tor",
+      "species": "salerii",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Carnosauria, Allosauroidea, Carcharodontosauridae",
+      "type": " large theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "Argentina"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 71-65 million years ago",
+      "name": "Neuquenosaurus",
+      "nameMeaning": "'Neuqu\u00e9n lizard'",
+      "namedBy": "Lydekker (1893)",
+      "pronunciation": "nayoo-ken-oh-sore-us",
+      "species": "australis",
+      "taxonomy": "Dinosauria, Saurischia, Sauropodomorpha, Sauropoda, Eusauropoda, Neosauropoda, Macronaria, Camarasauromorpha, Titanosauriformes, Titanosauria, Lithostrotia, Saltasauridae",
+      "type": " sauropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "Algeria",
+        "Niger",
+        "Tunisia"
+      ],
+      "length": null,
+      "live": "Early Cretaceous, 121-99 million years ago",
+      "name": "Nigersaurus",
+      "nameMeaning": "'Niger lizard'",
+      "namedBy": "Sereno, Beck, Dutheil, Larsson, Lyon, Moussa, Sadleir, Sidor, Varricchio, Wilson & Wilson (1999)",
+      "pronunciation": "nee-zhayr-sore-us",
+      "species": "taqueti",
+      "taxonomy": "Dinosauria, Saurischia, Sauropodomorpha, Sauropoda, Eusauropoda, Neosauropoda, Diplodocoidea, Rebbachisauridae",
+      "type": " sauropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "Russia"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 89-84 million years ago",
+      "name": "Nipponosaurus",
+      "nameMeaning": "'Japanese lizard'",
+      "namedBy": "Nagao (1936)",
+      "pronunciation": "nip-on-oh-sore-us",
+      "species": "sachalinensis",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Cerapoda, Ornithopoda, Euornithopoda, Iguanadontia, Euiguanadontia, Dryomorpha, Ankylopollexia, Iguanodontoidea, Hadrosauridae, Euhadrosauria, Lambeosaurinae",
+      "type": " euornithopod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "carnivorous"
+      ],
+      "foundIn": [
+        "Argentina"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 84-65 million years ago",
+      "name": "Noasaurus",
+      "nameMeaning": "'northwestern Argentina lizard'",
+      "namedBy": "Bonaparte and Powell (1980)",
+      "pronunciation": "noh-ah-sore-us",
+      "species": "leali",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Ceratosauria, Neoceratosauria, Abelisauroidea, Abelisauria",
+      "type": " small theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "USA"
+      ],
+      "length": null,
+      "live": "Early Cretaceous, 110-100 million years ago",
+      "name": "Nodosaurus",
+      "nameMeaning": "'node lizard'",
+      "namedBy": "Marsh (1889)",
+      "pronunciation": "no-doh-SORE-us",
+      "species": "textilis",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Thyreophora, Ankylosauromorpha, Ankylosauria, Nodosauridae",
+      "type": " armoured dinosaur",
+      "weight": null
+    },
+    {
+      "diet": [
+        "omnivorous"
+      ],
+      "foundIn": [
+        "Mongolia"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 72-68 million years ago",
+      "name": "Nomingia",
+      "nameMeaning": "'Nomingiin'",
+      "namedBy": "Barsbold, Osm\u00f3lska, Watabe, Currie and Tsogtbaatar (2000)",
+      "pronunciation": "noh-ming-ee-uh",
+      "species": "gobiensis",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Coelurosauria, Tyrannoraptora, Maniraptoriformes, Maniraptora, Oviraptorosauria, Caenagnathoidea, Caenagnathidae",
+      "type": " small theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "omnivorous"
+      ],
+      "foundIn": [
+        "USA"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 94-89 million years ago",
+      "name": "Nothronychus",
+      "nameMeaning": "'sloth-like claw'",
+      "namedBy": "Kirkland and Wolfe (2001)",
+      "pronunciation": "noh-thron-i-kus",
+      "species": "mckinleyi",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Coelurosauria, Tyrannoraptora, Maniraptoriformes, Maniraptora, Therizinosauroidea, Therizinosauridae",
+      "type": " large theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "carnivorous"
+      ],
+      "foundIn": [
+        "South Africa"
+      ],
+      "length": null,
+      "live": "Mid Jurassic, 159-132 million years ago",
+      "name": "Nqwebasaurus",
+      "nameMeaning": "'Nqweba lizard'",
+      "namedBy": "de Klerk, Forster, Sampson, Chinsamy and Ross (2000)",
+      "pronunciation": "n-qu-web-ah-sore-us",
+      "species": "thwazi",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Coelurosauria",
+      "type": " small theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "China"
+      ],
+      "length": null,
+      "live": "Mid Jurassic, 169-159 million years ago",
+      "name": "Omeisaurus",
+      "nameMeaning": "'Omei lizard'",
+      "namedBy": "Young (1939)",
+      "pronunciation": "oh-mee-sore-us",
+      "species": "junghsiensis",
+      "taxonomy": "Dinosauria, Saurischia, Sauropodomorpha, Sauropoda, Eusauropoda",
+      "type": " sauropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "Mongolia"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 72-68 million years ago",
+      "name": "Opisthocoelicaudia",
+      "nameMeaning": "'hollow-backed tail [vertebrae]'",
+      "namedBy": "Borsuk-Bialynicka  (1977)",
+      "pronunciation": "o-pis-tho-seel-i-cawd-ee-a",
+      "species": "skarzynskii ",
+      "taxonomy": "Dinosauria, Saurischia, Sauropodomorpha, Sauropoda, Eusauropoda, Neosauropoda, Macronaria, Camarasauromorpha, Titanosauriformes, Titanosauria, Lithostrotia, Saltasauridae",
+      "type": " sauropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "carnivorous"
+      ],
+      "foundIn": [
+        "USA"
+      ],
+      "length": null,
+      "live": "Late Jurassic, 150-144 million years ago",
+      "name": "Ornitholestes",
+      "nameMeaning": "'bird robber'",
+      "namedBy": "Osbourne (1933)",
+      "pronunciation": "Or-nith-oh-LES-teez",
+      "species": "hermanni",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Coelurosauria",
+      "type": " small theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "omnivorous"
+      ],
+      "foundIn": [
+        "Canada",
+        "USA"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 74-65 million years ago",
+      "name": "Ornithomimus",
+      "nameMeaning": "'bird mimic'",
+      "namedBy": "Marsh (1890)",
+      "pronunciation": "orn-ITH-oh-MEE-mus",
+      "species": "velox",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Coelurosauria, Tyrannoraptora, Maniraptoriformes, Ornithomimosauria, Ornithomimidae",
+      "type": " large theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "USA"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 74 million years ago",
+      "name": "Orodromeus",
+      "nameMeaning": "'mountain runner'",
+      "namedBy": "Horner and Weishampel (1988)",
+      "pronunciation": "or-oh-DROM-ee-us",
+      "species": "makelai",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Cerapoda, Ornithopoda, Euornithopoda",
+      "type": " euornithopod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "USA"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 99-94 million years ago",
+      "name": "Oryctodromeus",
+      "nameMeaning": "'digging runner'",
+      "namedBy": "Varricchio, Marin and Katsura (2007)",
+      "pronunciation": "or-ik-tow-drohm-ee-us",
+      "species": "cubicularis",
+      "taxonomy": "Dinosauria, Ornithischia",
+      "type": " euornithopod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "USA"
+      ],
+      "length": null,
+      "live": "Late Jurassic, 154-142 million years ago",
+      "name": "Othnielia",
+      "nameMeaning": "'[for] Othniel [Marsh]'",
+      "namedBy": "Marsh (1877)",
+      "pronunciation": "oth-ni-ee-lee-a",
+      "species": "rex",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Cerapoda, Ornithopoda, Euornithopoda",
+      "type": " euornithopod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "Niger"
+      ],
+      "length": null,
+      "live": "Early Cretaceous, 115-100 million years ago",
+      "name": "Ouranosaurus",
+      "nameMeaning": "'brave monitor lizard'",
+      "namedBy": "Taquet (1976)",
+      "pronunciation": "oo-RAH-noh-sore-us",
+      "species": "nigeriensis",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Cerapoda, Ornithopoda, Euornithopoda, Iguanadontia, Euiguanadontia, Dryomorpha, Ankylopollexia, Iguanodontoidea",
+      "type": " euornithopod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "omnivorous"
+      ],
+      "foundIn": [
+        "Mongolia"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 85-75 million years ago",
+      "name": "Oviraptor",
+      "nameMeaning": "'egg thief'",
+      "namedBy": "Osborn (1924)",
+      "pronunciation": "OH-vee-RAP-tor",
+      "species": "philoceratops",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Coelurosauria, Tyrannoraptora, Maniraptoriformes, Maniraptora, Oviraptorosauria, Caenagnathoidea, Oviraptoridae, Oviraptorinae",
+      "type": " small theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "Canada",
+        "USA"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 76-65 million years ago",
+      "name": "Pachycephalosaurus",
+      "nameMeaning": "'thick-headed lizard'",
+      "namedBy": "Brown and Schlaikjer (1943)",
+      "pronunciation": "pack-i-KEF-al-oh-sore-russ",
+      "species": "wyomingensis",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Cerapoda, Marginocephalia, Pachycephalosauria, Goyocephala, Homalocephaloidea, Pachycephalosauridae",
+      "type": " euornithopod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "Canada"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 76-74 million years ago",
+      "name": "Pachyrhinosaurus",
+      "nameMeaning": "'thick-nosed lizard'",
+      "namedBy": "Sternberg (1950)",
+      "pronunciation": "pack-ee-RINE-oh-sore-us",
+      "species": "canadensis",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Cerapoda, Marginocephalia, Ceratopsia, Neoceratopsia, Coronosauria, Ceratopsidae, Centrosaurinae",
+      "type": " ceratopsian",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "Canada",
+        "USA"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 79-75 million years ago",
+      "name": "Panoplosaurus",
+      "nameMeaning": "'fully-armoured lizard'",
+      "namedBy": "Lambe (1919)",
+      "pronunciation": "pan-op-loh-sore-us",
+      "species": "mirus",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Thyreophora, Ankylosauromorpha, Ankylosauria, Nodosauridae",
+      "type": " armoured dinosaur",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "United Kingdom",
+        "Wales"
+      ],
+      "length": null,
+      "live": "Early Jurassic\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t",
+      "name": "Pantydraco",
+      "nameMeaning": "'Pant-y-ffynnon dragon'",
+      "namedBy": "Galton, Yates and Kermack 2007 (2003)",
+      "pronunciation": "pant-ee-drak-oh",
+      "species": "caducus",
+      "taxonomy": "Dinosauria, Saurischia",
+      "type": " euornithopod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "Egypt"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 99-94 million years ago",
+      "name": "Paralititan",
+      "nameMeaning": "'tidal giant'",
+      "namedBy": "Smith, Lamanna, Lacovara, Dodson, Smith, Poole, Giegengack and Attia (2001)",
+      "pronunciation": "pa-ral-i-tie-tuhn",
+      "species": "stromeri",
+      "taxonomy": "Dinosauria, Saurischia, Sauropodomorpha, Sauropoda, Eusauropoda, Neosauropoda, Macronaria, Camarasauromorpha, Titanosauriformes, Titanosauria, Lithostrotia",
+      "type": " sauropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "Canada",
+        "USA"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 76-74 million years ago",
+      "name": "Parasaurolophus",
+      "nameMeaning": "'like 'Saurolophus''",
+      "namedBy": "Parks (1922)",
+      "pronunciation": "pa-ra-saw-ROL-off-us",
+      "species": "walkeri",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Cerapoda, Ornithopoda, Euornithopoda, Iguanadontia, Euiguanadontia, Dryomorpha, Ankylopollexia, Iguanodontoidea, Hadrosauridae, Euhadrosauria, Lambeosaurinae",
+      "type": " euornithopod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "Canada"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 76-74 million years ago",
+      "name": "Parksosaurus",
+      "nameMeaning": "'Park's lizard'",
+      "namedBy": "Sternberg (1937)",
+      "pronunciation": "PARKS-oh-SORE-us",
+      "species": "warrenae",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Cerapoda, Ornithopoda, Euornithopoda",
+      "type": " euornithopod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "Argentina"
+      ],
+      "length": null,
+      "live": "Mid Jurassic, 164-159 million years ago",
+      "name": "Patagosaurus",
+      "nameMeaning": "'Patagonian lizard'",
+      "namedBy": "Bonaparte (1979)",
+      "pronunciation": "pat-ag-oh-sore-us",
+      "species": "fariasi",
+      "taxonomy": "Dinosauria, Saurischia, Sauropodomorpha, Sauropoda, Eusauropoda, Cetiosauridae",
+      "type": " sauropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "carnivorous"
+      ],
+      "foundIn": [
+        "Spain"
+      ],
+      "length": null,
+      "live": "Early Cretaceous, 127-121 million years ago",
+      "name": "Pelicanimimus",
+      "nameMeaning": "'pelican mimic'",
+      "namedBy": "P\u00e9rez-Moreno, Sanz, Buscalioni, Moratalla, Ortega and Rasskin-Gutman (1994)",
+      "pronunciation": "pel-e-kan-i-mim-us",
+      "species": "polyodon",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Coelurosauria, Tyrannoraptora, Maniraptoriformes, Ornithomimosauria",
+      "type": " small theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "England",
+        "United Kingdom"
+      ],
+      "length": null,
+      "live": "Early Cretaceous, 125 million years ago",
+      "name": "Pelorosaurus",
+      "nameMeaning": "'monstrous lizard'",
+      "namedBy": "Mantell (1850)",
+      "pronunciation": "pel-oh-ROW-sore-us",
+      "species": "conybearei",
+      "taxonomy": "Dinosauria, Saurischia, Sauropodomorpha, Sauropoda, Eusauropoda, Neosauropoda, Macronaria, Camarasauromorpha, Titanosauriformes",
+      "type": " sauropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "USA"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 76-74 million years ago",
+      "name": "Pentaceratops",
+      "nameMeaning": "'five-horned face'",
+      "namedBy": "Osborn (1923)",
+      "pronunciation": "pent-ah-ker-ah-tops",
+      "species": "sternbergi",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Cerapoda, Marginocephalia, Ceratopsia, Neoceratopsia, Coronosauria, Ceratopsidae, Chasmosaurinae",
+      "type": " ceratopsian",
+      "weight": null
+    },
+    {
+      "diet": [
+        "carnivorous"
+      ],
+      "foundIn": [
+        "Argentina"
+      ],
+      "length": null,
+      "live": "Late Jurassic, 164-159 million years ago",
+      "name": "Piatnitzkysaurus",
+      "nameMeaning": "'Piatnitzky's lizard'",
+      "namedBy": "Bonaparte (1979)",
+      "pronunciation": "pye-at-nits-key-sore-us",
+      "species": "floresi",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Spinosauroidea, Megalosauridae, Eustreptospondylinae",
+      "type": " large theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "China",
+        "Mongolia"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 81-75 million years ago",
+      "name": "Pinacosaurus",
+      "nameMeaning": "'plank lizard'",
+      "namedBy": "Gilmore (1933)",
+      "pronunciation": "pin-ak-oh-sore-us",
+      "species": "grangeri",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Thyreophora, Ankylosauromorpha, Ankylosauria, Ankylosauridae",
+      "type": " armoured dinosaur",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "France",
+        "Germany",
+        "Switzerland"
+      ],
+      "length": null,
+      "live": "Late Triassic, 210 million years ago",
+      "name": "Plateosaurus",
+      "nameMeaning": "'flat lizard'",
+      "namedBy": "Meyer (1837)",
+      "pronunciation": "plat-ee-oh-sore-us",
+      "species": "engelhardti",
+      "taxonomy": "Dinosauria, Saurischia, Sauropodomorpha, Prosauropoda, Plateosauria, Plateosauridae",
+      "type": " sauropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "carnivorous"
+      ],
+      "foundIn": [
+        "USA"
+      ],
+      "length": null,
+      "live": "Mid Jurassic, 195-180 million years ago",
+      "name": "Podokesaurus",
+      "nameMeaning": "'swift-footed lizard'",
+      "namedBy": "Talbot (1911)",
+      "pronunciation": "po-doh-kee-sore-us",
+      "species": "holyokensis",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Coelophysoidea",
+      "type": " small theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "carnivorous"
+      ],
+      "foundIn": [
+        "France"
+      ],
+      "length": null,
+      "live": "Mid Jurassic, 169-164 million years ago",
+      "name": "Poekilopleuron",
+      "nameMeaning": "'varied ribs'",
+      "namedBy": "Eudes-Deslongchamps (1838)",
+      "pronunciation": "peek-i-loh-ploor-on",
+      "species": "bucklandii",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Spinosauroidea, Megalosauridae, Megalosaurinae",
+      "type": " large theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "England",
+        "United Kingdom"
+      ],
+      "length": null,
+      "live": "Early Cretaceous, 125 million years ago",
+      "name": "Polacanthus",
+      "nameMeaning": "'many spines'",
+      "namedBy": "Hulke (1881)",
+      "pronunciation": "pol-a-KAN-thus",
+      "species": "foxii",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Thyreophora, Ankylosauromorpha, Ankylosauria",
+      "type": " armoured dinosaur",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "Mongolia"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 80-65 million years ago",
+      "name": "Prenocephale",
+      "nameMeaning": "'sloping head'",
+      "namedBy": "Marya\u0144ska and Osm\u00f3lska (1974)",
+      "pronunciation": "preen-oh-keff-ah-lee",
+      "species": "prenes",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Cerapoda, Marginocephalia, Pachycephalosauria, Goyocephala, Homalocephaloidea, Pachycephalosauridae",
+      "type": " euornithopod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "China"
+      ],
+      "length": null,
+      "live": "Early Cretaceous, 121-99 million years ago",
+      "name": "Probactrosaurus",
+      "nameMeaning": "'before Bactrosaurus'",
+      "namedBy": "Rozhdestvensky (1966)",
+      "pronunciation": "proh-bak-troh-sore-us",
+      "species": "gobiensis",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Cerapoda, Ornithopoda, Euornithopoda, Iguanadontia, Euiguanadontia, Dryomorpha, Ankylopollexia, Iguanodontoidea",
+      "type": " euornithopod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "carnivorous"
+      ],
+      "foundIn": [
+        "England",
+        "United Kingdom"
+      ],
+      "length": null,
+      "live": "Mid Jurassic, 169-164 million years ago",
+      "name": "Proceratosaurus",
+      "nameMeaning": "'before Ceratosaurus'",
+      "namedBy": "Woodward (1910)",
+      "pronunciation": "proh-ker-at-oh-sore-us",
+      "species": "bradleyi",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Coelurosauria",
+      "type": " small theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "carnivorous"
+      ],
+      "foundIn": [
+        "Germany"
+      ],
+      "length": null,
+      "live": "Late Triassic, 221-210 million years ago",
+      "name": "Procompsognathus",
+      "nameMeaning": "'before Compsognathus'",
+      "namedBy": "Fraas (1913)",
+      "pronunciation": "pro-comp-sog-nay-thus",
+      "species": "triassicus",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Coelophysoidea",
+      "type": " small theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "Canada",
+        "USA"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 77-75 million years ago",
+      "name": "Prosaurolophus",
+      "nameMeaning": "'before lizard crest [Saurolophus]'",
+      "namedBy": "Brown (1916)",
+      "pronunciation": "proh-sore-oh-lof-us",
+      "species": "maximus",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Cerapoda, Ornithopoda, Euornithopoda, Iguanadontia, Euiguanadontia, Dryomorpha, Ankylopollexia, Iguanodontoidea, Hadrosauridae, Euhadrosauria, Hadrosaurinae",
+      "type": " euornithopod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "carnivorous"
+      ],
+      "foundIn": [
+        "China"
+      ],
+      "length": null,
+      "live": "Early Cretaceous, 122-120 million years ago",
+      "name": "Protarchaeopteryx",
+      "nameMeaning": "'before Archaeopteryx'",
+      "namedBy": "Ji and Ji (1997)",
+      "pronunciation": "pro-tark-ee-op-ter-iks",
+      "species": "robusta",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Coelurosauria, Tyrannoraptora, Maniraptoriformes, Maniraptora, Paraves, Eumaniraptora",
+      "type": " small theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "China",
+        "Mongolia"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 74-70 million years ago",
+      "name": "Protoceratops",
+      "nameMeaning": "'first horned face'",
+      "namedBy": "Granger and Gregory (1923)",
+      "pronunciation": "pro-toe-ker-ah-tops",
+      "species": "andrewsi",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Cerapoda, Marginocephalia, Ceratopsia, Neoceratopsia, Coronosauria",
+      "type": " ceratopsian",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "USA"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 99-94 million years ago",
+      "name": "Protohadros",
+      "nameMeaning": "'first hadrosaur'",
+      "namedBy": "Head (1998)",
+      "pronunciation": "proh-toh-had-ros",
+      "species": "byrdi",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Cerapoda, Ornithopoda, Euornithopoda, Iguanadontia, Euiguanadontia, Dryomorpha, Ankylopollexia, Iguanodontoidea",
+      "type": " euornithopod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "China",
+        "Mongolia",
+        "Russia"
+      ],
+      "length": null,
+      "live": "Early Cretaceous, 120-100 million years ago",
+      "name": "Psittacosaurus",
+      "nameMeaning": "'parrot lizard'",
+      "namedBy": "Osborn (1923)",
+      "pronunciation": "SIT-ak-oh-sore-us",
+      "species": "mongoliensis",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Cerapoda, Marginocephalia, Ceratopsia, Psittacosauridae",
+      "type": " ceratopsian",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "Mongolia"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 86-84 million years ago",
+      "name": "Quaesitosaurus",
+      "nameMeaning": "'extraordinary lizard'",
+      "namedBy": "Kurzanov and Bannikov (1983)",
+      "pronunciation": "kwee-siet-oh-sore-us",
+      "species": "orientalis",
+      "taxonomy": "Dinosauria, Saurischia, Sauropodomorpha, Sauropoda, Eusauropoda, Neosauropoda, Diplodocoidea, Nemegtosauridae",
+      "type": " sauropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "Morocco"
+      ],
+      "length": null,
+      "live": "Early Cretaceous, 112-99 million years ago",
+      "name": "Rebbachisaurus",
+      "nameMeaning": "'[Ait] Rebbach lizard'",
+      "namedBy": "Lavocat (1954)",
+      "pronunciation": "re-bash-i-sore-us",
+      "species": "garasbae",
+      "taxonomy": "Dinosauria, Saurischia, Sauropodomorpha, Sauropoda, Eusauropoda, Neosauropoda, Diplodocoidea, Rebbachisauridae",
+      "type": " sauropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "Austria",
+        "France",
+        "Romania",
+        "Spain"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 76-70 million years ago",
+      "name": "Rhabdodon",
+      "nameMeaning": "'rod tooth'",
+      "namedBy": "Matherton (1869)",
+      "pronunciation": "RAB-doh-don",
+      "species": "priscus",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Cerapoda, Ornithopoda, Euornithopoda, Iguanadontia, Rhabdodontidae",
+      "type": " euornithopod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "Australia"
+      ],
+      "length": null,
+      "live": "Mid Jurassic, 177-169 million years ago",
+      "name": "Rhoetosaurus",
+      "nameMeaning": "'Rhoetan lizard'",
+      "namedBy": "Longman (1926)",
+      "pronunciation": "reet-oh-sore-us",
+      "species": "brownei",
+      "taxonomy": "Dinosauria, Saurischia, Sauropodomorpha, Sauropoda",
+      "type": " sauropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "omnivorous"
+      ],
+      "foundIn": [
+        "Mongolia"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 72-68 million years ago",
+      "name": "Rinchenia",
+      "nameMeaning": "'Rinchen'",
+      "namedBy": "Barsbold (1986)",
+      "pronunciation": "rin-chen-ee-ah",
+      "species": "mongoliensis",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Coelurosauria, Tyrannoraptora, Maniraptoriformes, Maniraptora, Oviraptorosauria, Caenagnathoidea, Oviraptoridae, Oviraptorinae",
+      "type": " small theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous/omnivorous"
+      ],
+      "foundIn": [
+        "Argentina"
+      ],
+      "length": null,
+      "live": "Late Triassic, 221-210 million years ago",
+      "name": "Riojasaurus",
+      "nameMeaning": "'[La] Rioja lizard'",
+      "namedBy": "Bonaparte (1969)",
+      "pronunciation": "ree-oh-hah-sore-us",
+      "species": "incertus",
+      "taxonomy": "Dinosauria, Saurischia, Sauropodomorpha, Prosauropoda, Anchisauria, Melanorosauridae",
+      "type": " sauropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "carnivorous"
+      ],
+      "foundIn": [
+        "Niger"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 95 million years ago",
+      "name": "Rugops",
+      "nameMeaning": "'wrinkle face'",
+      "namedBy": "Sereno, Wilson and Conrad (2004)",
+      "pronunciation": "roo-gops",
+      "species": "primus",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Ceratosauria, Neoceratosauria, Abelisauridae",
+      "type": " large theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "Mongolia"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 80 million years ago",
+      "name": "Saichania",
+      "nameMeaning": "'beautiful'",
+      "namedBy": "Marya\u00f1ska (1977)",
+      "pronunciation": "sigh-CHAN-ee-a",
+      "species": "chulsanensis",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Thyreophora, Ankylosauromorpha, Ankylosauria, Ankylosauridae",
+      "type": " armoured dinosaur",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "Argentina"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 70-65 million years ago",
+      "name": "Saltasaurus",
+      "nameMeaning": "'Salta lizard'",
+      "namedBy": "Bonaparte and Powell (1980)",
+      "pronunciation": "salt-a-sore-us",
+      "species": "loricatus",
+      "taxonomy": "Dinosauria, Saurischia, Sauropodomorpha, Sauropoda, Eusauropoda, Neosauropoda, Macronaria, Camarasauromorpha, Titanosauriformes, Titanosauria, Lithostrotia, Saltasauridae",
+      "type": " sauropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "carnivorous"
+      ],
+      "foundIn": [
+        "Scotland",
+        "United Kingdom"
+      ],
+      "length": null,
+      "live": "Late Triassic, 221-210 million years ago",
+      "name": "Saltopus",
+      "nameMeaning": "'hopping foot'",
+      "namedBy": "Huene (1910)",
+      "pronunciation": "sal-to-pus",
+      "species": "elginensis",
+      "taxonomy": "Dinosauria",
+      "type": " small theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "carnivorous"
+      ],
+      "foundIn": [
+        "England",
+        "United Kingdom"
+      ],
+      "length": null,
+      "live": "Early Jurassic, 202-195 million years ago",
+      "name": "Sarcosaurus",
+      "nameMeaning": "'flesh lizard'",
+      "namedBy": "Andrews (1921)",
+      "pronunciation": "sahr-koh-sore-us",
+      "species": "woodi",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Ceratosauria",
+      "type": " small theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "Canada",
+        "Mongolia"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 74-70 million years ago",
+      "name": "Saurolophus",
+      "nameMeaning": "'ridged lizard'",
+      "namedBy": "Brown (1912)",
+      "pronunciation": "SORE-oh-LOAF-us",
+      "species": "osborni",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Cerapoda, Ornithopoda, Euornithopoda, Iguanadontia, Euiguanadontia, Dryomorpha, Ankylopollexia, Iguanodontoidea, Hadrosauridae, Euhadrosauria, Hadrosaurinae",
+      "type": " euornithopod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "USA"
+      ],
+      "length": null,
+      "live": "Early Cretaceous, 121-94 million years ago",
+      "name": "Sauropelta",
+      "nameMeaning": "'lizard shield'",
+      "namedBy": "Ostrom (1970)",
+      "pronunciation": "sore-oh-pelt-ah",
+      "species": "edwardsorum",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Thyreophora, Ankylosauromorpha, Ankylosauria, Nodosauridae",
+      "type": " armoured dinosaur",
+      "weight": null
+    },
+    {
+      "diet": [
+        "carnivorous"
+      ],
+      "foundIn": [
+        "USA"
+      ],
+      "length": null,
+      "live": "Late Jurassic, 154-142 million years ago",
+      "name": "Saurophaganax",
+      "nameMeaning": "'king of the lizard eaters'",
+      "namedBy": "Chure (1996)",
+      "pronunciation": "sore-oh-fag-ah-naks",
+      "species": "maximus",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Carnosauria, Allosauroidea, Allosauridae",
+      "type": " large theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "carnivorous"
+      ],
+      "foundIn": [
+        "Mongolia"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 85-80 million years ago",
+      "name": "Saurornithoides",
+      "nameMeaning": "'bird-like lizard'",
+      "namedBy": "Osborn (1924)",
+      "pronunciation": "sore-OR-nith-OID-eez",
+      "species": "mongoliensis",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Coelurosauria, Tyrannoraptora, Maniraptoriformes, Maniraptora, Paraves, Eumaniraptoria, Troodontidae",
+      "type": " small theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "England",
+        "United Kingdom"
+      ],
+      "length": null,
+      "live": "Early Jurassic, 208-194 million years ago",
+      "name": "Scelidosaurus",
+      "nameMeaning": "'limb lizard'",
+      "namedBy": "Owen (1868)",
+      "pronunciation": "skel-EYE-doh-sore-us",
+      "species": "harrisonii",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Thyreophora, Scelidosauridae",
+      "type": " armoured dinosaur",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "USA"
+      ],
+      "length": null,
+      "live": "Early Jurassic, 205-202 million years ago",
+      "name": "Scutellosaurus",
+      "nameMeaning": "'small shield lizard'",
+      "namedBy": "Colbert (1981)",
+      "pronunciation": "skoo-tell-oh-sore-us",
+      "species": "lawleri",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Thyreophora",
+      "type": " armoured dinosaur",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "Argentina"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 71-65 million years ago",
+      "name": "Secernosaurus",
+      "nameMeaning": "'separated lizard'",
+      "namedBy": "Brett-Surman (1979)",
+      "pronunciation": "see-ser-noh-sore-us",
+      "species": "koerneri",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Cerapoda, Ornithopoda, Euornithopoda, Iguanadontia, Euiguanadontia, Dryomorpha, Ankylopollexia, Iguanodontoidea, Hadrosauridae",
+      "type": " euornithopod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "carnivorous"
+      ],
+      "foundIn": [
+        "USA"
+      ],
+      "length": null,
+      "live": "Mid Jurassic, 195-180 million years ago",
+      "name": "Segisaurus",
+      "nameMeaning": "'Segi [Canyon] lizard'",
+      "namedBy": "Camp (1936)",
+      "pronunciation": "sayg-ee-sore-us",
+      "species": "halli",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Coelophysoidea, Coelophysidae",
+      "type": " small theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "carnivorous"
+      ],
+      "foundIn": [
+        "Mongolia"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 97-88 million years ago",
+      "name": "Segnosaurus",
+      "nameMeaning": "'slow lizard'",
+      "namedBy": "Perle (1979)",
+      "pronunciation": "SEG-no-SORE-us",
+      "species": "galbinensis",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Coelurosauria, Tyrannoraptora, Maniraptoriformes, Maniraptora, Therizinosauroidea, Therizinosauridae",
+      "type": " large theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "Mongolia"
+      ],
+      "length": null,
+      "live": "Early Cretaceous, 121-99 million years ago",
+      "name": "Shamosaurus",
+      "nameMeaning": "'desert lizard'",
+      "namedBy": "Tumanova (1983)",
+      "pronunciation": "shah-maw-sore-us",
+      "species": "scutatus",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Thyreophora, Ankylosauromorpha, Ankylosauria, Ankylosauridae",
+      "type": " armoured dinosaur",
+      "weight": null
+    },
+    {
+      "diet": [
+        "carnivorous"
+      ],
+      "foundIn": [
+        "Mongolia"
+      ],
+      "length": null,
+      "live": "Early Cretaceous, 126-142 million years ago",
+      "name": "Shanag",
+      "nameMeaning": "'named after the dancers in the Buddhist Tsam festival'",
+      "namedBy": "Turner, Hwang and Norell (2007)",
+      "pronunciation": "sha-nag",
+      "species": "ashile",
+      "taxonomy": "Dinosauria, Saurischia",
+      "type": " small theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "China"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 78-74 million years ago",
+      "name": "Shantungosaurus",
+      "nameMeaning": "'Shantung (=Shandong) lizard'",
+      "namedBy": "Hu (1973)",
+      "pronunciation": "shan-TUN-go-sore-us",
+      "species": "giganteus",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Cerapoda, Ornithopoda, Euornithopoda, Iguanadontia, Euiguanadontia, Dryomorpha, Ankylopollexia, Iguanodontoidea, Hadrosauridae, Euhadrosauria, Hadrosaurinae",
+      "type": " euornithopod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "China"
+      ],
+      "length": null,
+      "live": "Mid Jurassic, 170-160 million years ago",
+      "name": "Shunosaurus",
+      "nameMeaning": "'Shuno lizard'",
+      "namedBy": "Dong, Zhou and Zhang (1983)",
+      "pronunciation": "SHOON-oh-SORE-us",
+      "species": "lii",
+      "taxonomy": "Dinosauria, Saurischia, Sauropodomorpha, Sauropoda, Eusauropoda",
+      "type": " sauropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "omnivorous"
+      ],
+      "foundIn": [
+        "Mongolia"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 75-81 million years ago",
+      "name": "Shuvuuia",
+      "nameMeaning": "'bird'",
+      "namedBy": "Chiappe, Norell and Clark (1998)",
+      "pronunciation": "shu-voo-ee-ah",
+      "species": "deserti",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Coelurosauria, Tyrannoraptora, Maniraptoriformes, Maniraptora, Alvarezsauridae",
+      "type": " small theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "USA"
+      ],
+      "length": null,
+      "live": "Early Cretaceous, 121-112 million years ago",
+      "name": "Silvisaurus",
+      "nameMeaning": "'forest lizard'",
+      "namedBy": "Eaton (1960)",
+      "pronunciation": "sil-vi-sore-us",
+      "species": "condrayi",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Thyreophora, Ankylosauromorpha, Ankylosauria, Nodosauridae",
+      "type": " armoured dinosaur",
+      "weight": null
+    },
+    {
+      "diet": [
+        "carnivorous"
+      ],
+      "foundIn": [
+        "China"
+      ],
+      "length": null,
+      "live": "Early Cretaceous, 125 million years ago",
+      "name": "Sinocalliopteryx",
+      "nameMeaning": "'Chinese beautiful feather'",
+      "namedBy": "Ji, Ji, L\u00fc and Yuan (2007)",
+      "pronunciation": "sie-no-kall-ee-op-ter-iks",
+      "species": "gigas",
+      "taxonomy": "Dinosauria, Saurischia",
+      "type": " small theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "carnivorous"
+      ],
+      "foundIn": [
+        "China"
+      ],
+      "length": null,
+      "live": "Early Cretaceous, 122-120 million years ago",
+      "name": "Sinornithosaurus",
+      "nameMeaning": "'Chinese bird lizard'",
+      "namedBy": "Xu, Wang and Wu (1999)",
+      "pronunciation": "sine-or-nith-oh-sore-us",
+      "species": "millenii",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Coelurosauria, Tyrannoraptora, Maniraptoriformes, Maniraptora, Paraves, Eumaniraptora, Dromaeosauridae",
+      "type": " small theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "carnivorous"
+      ],
+      "foundIn": [
+        "China"
+      ],
+      "length": null,
+      "live": "Early Cretaceous, 122-120 million years ago",
+      "name": "Sinosauropteryx",
+      "nameMeaning": "'Chinese lizard wing'",
+      "namedBy": "Ji and Ji (1996)",
+      "pronunciation": "sine-oh-sore-op-ter-iks",
+      "species": "prima",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Coelurosauria, Compsognathidae",
+      "type": " small theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "carnivorous"
+      ],
+      "foundIn": [
+        "China"
+      ],
+      "length": null,
+      "live": "Early Cretaceous, 127-121 million years ago",
+      "name": "Sinovenator",
+      "nameMeaning": "'Chinese hunter'",
+      "namedBy": "Xu, Norell, Wang, Makovicky and Wu (2002)",
+      "pronunciation": "sien-oh-vee-nay-tor",
+      "species": "changii",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Coelurosauria, Tyrannoraptora, Maniraptoriformes, Maniraptora, Paraves, Eumaniraptoria, Troodontidae",
+      "type": " small theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "carnivorous"
+      ],
+      "foundIn": [
+        "China"
+      ],
+      "length": null,
+      "live": "Mid Jurassic, 169-142 million years ago",
+      "name": "Sinraptor",
+      "nameMeaning": "'Chinese plunderer'",
+      "namedBy": "Gao (1992)",
+      "pronunciation": "sien-rap-tor",
+      "species": "hepingensis",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Carnosauria, Allosauroidea, Sinraptoridae",
+      "type": " large theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "China"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 89-65 million years ago",
+      "name": "Sonidosaurus",
+      "nameMeaning": "'Sonid (area in which the type locality is) lizard'",
+      "namedBy": "Xu, Zhang, Tan, Zhao and Tan (2006)",
+      "pronunciation": "soh-nid-oh-sore-us",
+      "species": "saihangaobiensis",
+      "taxonomy": "Dinosauria, Saurischia, Sauropodomorpha, Sauropoda, Eusauropoda, Neosauropoda, Macronaria, Camarasauromorpha, Titanosauriformes, Titanosauria",
+      "type": " sauropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "carnivorous"
+      ],
+      "foundIn": [
+        "Egypt",
+        "Morocco"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 95-70 million years ago",
+      "name": "Spinosaurus",
+      "nameMeaning": "'thorn lizard'",
+      "namedBy": "Stromer (1915)",
+      "pronunciation": "SPINE-oh-SORE-us",
+      "species": "aegyptiacus",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Spinosauroidea, Spinosauridae, Spinosaurinae",
+      "type": " large theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "carnivorous"
+      ],
+      "foundIn": [
+        "Brazil"
+      ],
+      "length": null,
+      "live": "Late Triassic, 227-221 million years ago",
+      "name": "Staurikosaurus",
+      "nameMeaning": "'Southern Cross lizard'",
+      "namedBy": "Colbert (1970)",
+      "pronunciation": "stor-ik-oh-sore-us",
+      "species": "pricei",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Herrerasauridae",
+      "type": " large theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "Canada",
+        "USA"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 76-74 million years ago",
+      "name": "Stegoceras",
+      "nameMeaning": "'horny roof'",
+      "namedBy": "Lambe (1902)",
+      "pronunciation": "ste-GOS-er-as",
+      "species": "validum",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Cerapoda, Marginocephalia, Pachycephalosauria, Goyocephala, Homalocephaloidea, Pachycephalosauridae",
+      "type": " euornithopod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "USA"
+      ],
+      "length": null,
+      "live": "Late Jurassic, 155-145 million years ago",
+      "name": "Stegosaurus",
+      "nameMeaning": "'roof lizard'",
+      "namedBy": "Marsh (1877)",
+      "pronunciation": "STEG-oh-SORE-us",
+      "species": "armatus",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Thyreophora, Stegosauria, Stegosauridae, Stegosaurinae",
+      "type": " armoured dinosaur",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "Germany"
+      ],
+      "length": null,
+      "live": "Early Cretaceous, 127-121 million years ago",
+      "name": "Stenopelix",
+      "nameMeaning": "'narrow pelvis'",
+      "namedBy": "Meyer (1857)",
+      "pronunciation": "ste-nop-e-liks",
+      "species": "valdensis",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Cerapoda, Marginocephalia, Pachycephalosauria",
+      "type": " ceratopsian",
+      "weight": null
+    },
+    {
+      "diet": [
+        "omnivorous"
+      ],
+      "foundIn": [
+        "Canada"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 76-74 million years ago",
+      "name": "Struthiomimus",
+      "nameMeaning": "'ostrich mimic'",
+      "namedBy": "Osborn (1917)",
+      "pronunciation": "STRUTH-ee-oh-MEEM-us",
+      "species": "altus",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Coelurosauria, Tyrannoraptora, Maniraptoriformes, Ornithomimosauria, Ornithomimidae",
+      "type": " small theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "Austria",
+        "France",
+        "Romania",
+        "Spain"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 83-75 million years ago",
+      "name": "Struthiosaurus",
+      "nameMeaning": "'ostrich lizard'",
+      "namedBy": "Bunzel (1871)",
+      "pronunciation": "strew-thee-oh-sore-us",
+      "species": "austriacus",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Thyreophora, Ankylosauromorpha, Ankylosauria, Nodosauridae",
+      "type": " armoured dinosaur",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "Canada",
+        "USA"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 76-70 million years ago",
+      "name": "Styracosaurus",
+      "nameMeaning": "'spiked lizard'",
+      "namedBy": "Lambe (1913)",
+      "pronunciation": "sty-RAK-oh-sore-us",
+      "species": "albertensis",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Cerapoda, Marginocephalia, Ceratopsia, Neoceratopsia, Coronosauria, Ceratopsidae, Centrosaurinae",
+      "type": " ceratopsian",
+      "weight": null
+    },
+    {
+      "diet": [
+        "carnivorous"
+      ],
+      "foundIn": [
+        "Niger"
+      ],
+      "length": null,
+      "live": "Early Cretaceous, 121-112 million years ago",
+      "name": "Suchomimus",
+      "nameMeaning": "'crocodile mimic'",
+      "namedBy": "Sereno, Beck, Dutheil, Gado, Larsson, Lyon, Marcot, Rauhut, Sadleir, Sidor, Varricchio, Wilson and Wilson (1998)",
+      "pronunciation": "sook-oh-mim-us",
+      "species": "tenerensis",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Spinosauroidea, Spinosauridae, Baryonychinae",
+      "type": " large theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "USA"
+      ],
+      "length": null,
+      "live": "Early Cretaceous, 154-142 million years ago",
+      "name": "Supersaurus",
+      "nameMeaning": "'super lizard'",
+      "namedBy": "Jansen (1985)",
+      "pronunciation": "sue-per-sore-us",
+      "species": "vivianae",
+      "taxonomy": "Dinosauria, Saurischia, Sauropodomorpha, Sauropoda, Eusauropoda, Neosauropoda, Diplodocoidea, Diplodocidae",
+      "type": " sauropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "Mongolia"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 99-89 million years ago",
+      "name": "Talarurus",
+      "nameMeaning": "'wicker tail'",
+      "namedBy": "Maleev (1952)",
+      "pronunciation": "tal-a-roor-us",
+      "species": "plicatospineus",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Thyreophora, Ankylosauromorpha, Ankylosauria, Ankylosauridae",
+      "type": " armoured dinosaur",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "China"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 89-65 million years ago",
+      "name": "Tanius",
+      "nameMeaning": "'[H. C.] Tan'",
+      "namedBy": "Wiman (1929)",
+      "pronunciation": "tahn-ee-us",
+      "species": "sinensis",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Cerapoda, Ornithopoda, Euornithopoda, Iguanadontia, Euiguanadontia, Dryomorpha, Ankylopollexia, Iguanodontoidea, Hadrosauridae",
+      "type": " euornithopod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "carnivorous"
+      ],
+      "foundIn": [
+        "China",
+        "Mongolia"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 74-70 million years ago",
+      "name": "Tarbosaurus",
+      "nameMeaning": "'alarming lizard'",
+      "namedBy": "Maleev (1955)",
+      "pronunciation": "TAR-bow-SORE-us",
+      "species": "bataar",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Coelurosauria, Tyrannoraptora, Tyrannosauroidea, Tyrannosauridae, Tyrannosaurinae",
+      "type": " large theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "Mongolia"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 75-68 million years ago",
+      "name": "Tarchia",
+      "nameMeaning": "'brainy one'",
+      "namedBy": "Maleev (1956)",
+      "pronunciation": "tahrk-ee ah",
+      "species": "gigantea",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Thyreophora, Ankylosauromorpha, Ankylosauria, Ankylosaurinae",
+      "type": " armoured dinosaur",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "France",
+        "Romania",
+        "Spain"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 84-65 million years ago",
+      "name": "Telmatosaurus",
+      "nameMeaning": "'swamp lizard'",
+      "namedBy": "Nopcsa (1900)",
+      "pronunciation": "tel-ma-toh-sore-us",
+      "species": "transsylvanicus",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Cerapoda, Ornithopoda, Euornithopoda, Iguanadontia, Euiguanadontia, Dryomorpha, Ankylopollexia, Iguanodontoidea, Hadrosauridae",
+      "type": " euornithopod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "Canada",
+        "USA"
+      ],
+      "length": null,
+      "live": "Early Cretaceous, 120-110 million years ago",
+      "name": "Tenontosaurus",
+      "nameMeaning": "'sinew lizard'",
+      "namedBy": "Ostrom (1970)",
+      "pronunciation": "ten-ON-toe-sore-us",
+      "species": "tillettorum",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Cerapoda, Ornithopoda, Euornithopoda, Iguanadontia",
+      "type": " euornithopod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "omnivorous"
+      ],
+      "foundIn": [
+        "England",
+        "United Kingdom"
+      ],
+      "length": null,
+      "live": "Late Triassic, 227-205 million years ago",
+      "name": "Thecodontosaurus",
+      "nameMeaning": "'socket-toothed lizard'",
+      "namedBy": "Morris (1843)",
+      "pronunciation": "theek-o-don-toh-sore-us",
+      "species": "antiquus",
+      "taxonomy": "Dinosauria, Saurischia, Sauropodomorpha, Prosauropoda",
+      "type": " sauropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "unknown"
+      ],
+      "foundIn": [
+        "Mongolia"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 85-70 million years ago",
+      "name": "Therizinosaurus",
+      "nameMeaning": "'scythe lizard'",
+      "namedBy": "Maleev (1915)",
+      "pronunciation": "THER-ih-zine-oh-SORE-us",
+      "species": "cheloniformis",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Coelurosauria, Tyrannoraptora, Maniraptoriformes, Maniraptora, Therizinosauroidea, Therizinosauridae",
+      "type": " large theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "Canada",
+        "USA"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 76-67 million years ago",
+      "name": "Thescelosaurus",
+      "nameMeaning": "'wonderful lizard'",
+      "namedBy": "Gilmore (1913)",
+      "pronunciation": "thes-kel-oh-SORE-us",
+      "species": "neglectus",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Cerapoda, Ornithopoda, Euornithopoda",
+      "type": " euornithopod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "Canada",
+        "USA"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 70-65 million years ago",
+      "name": "Torosaurus",
+      "nameMeaning": "'bull lizard'",
+      "namedBy": "Marsh (1891)",
+      "pronunciation": "tor-oh-SORE-us",
+      "species": "latus",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Cerapoda, Marginocephalia, Ceratopsia, Neoceratopsia, Coronosauria, Ceratopsidae, Chasmosaurinae",
+      "type": " ceratopsian",
+      "weight": null
+    },
+    {
+      "diet": [
+        "carnivorous"
+      ],
+      "foundIn": [
+        "USA"
+      ],
+      "length": null,
+      "live": "Late Jurassic, 155-144 million years ago",
+      "name": "Torvosaurus",
+      "nameMeaning": "'savage lizard'",
+      "namedBy": "Galton and Jensen (1979)",
+      "pronunciation": "TOR-voh-SORE-us",
+      "species": "tanneri",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Spinosauroidea, Megalosauridae, Megalosaurinae",
+      "type": " large theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "USA"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 68-66 million years ago",
+      "name": "Triceratops",
+      "nameMeaning": "'three-horned face'",
+      "namedBy": "Marsh (1889)",
+      "pronunciation": "tri-SERRA-tops",
+      "species": "horridus",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Cerapoda, Marginocephalia, Ceratopsia, Neoceratopsia, Coronosauria, Ceratopsidae, Chasmosaurinae",
+      "type": " ceratopsian",
+      "weight": null
+    },
+    {
+      "diet": [
+        "carnivorous"
+      ],
+      "foundIn": [
+        "USA"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 74-65 million years ago",
+      "name": "Troodon",
+      "nameMeaning": "'wounding tooth'",
+      "namedBy": "Leidy (1856)",
+      "pronunciation": "TROH-oh-don",
+      "species": "formosus",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Coelurosauria, Tyrannoraptora, Maniraptoriformes, Maniraptora, Paraves, Eumaniraptoria, Troodontidae",
+      "type": " small theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "Mongolia"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 99-84 million years ago",
+      "name": "Tsagantegia",
+      "nameMeaning": "'Tsagan Teg'",
+      "namedBy": "Tumanova (1993)",
+      "pronunciation": "tsah-gahn-tay-gee-a",
+      "species": "longicranialis",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Thyreophora, Ankylosauromorpha, Ankylosauria, Ankylosauridae",
+      "type": " armoured dinosaur",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "China"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 84-71 million years ago",
+      "name": "Tsintaosaurus",
+      "nameMeaning": "'Qingdao lizard'",
+      "namedBy": "Young (1958)",
+      "pronunciation": "ching-dow-sore-us",
+      "species": "spinorhinus",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Cerapoda, Ornithopoda, Euornithopoda, Iguanadontia, Euiguanadontia, Dryomorpha, Ankylopollexia, Iguanodontoidea, Hadrosauridae, Euhadrosauria, Lambeosaurinae",
+      "type": " euornithopod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "China"
+      ],
+      "length": null,
+      "live": "Late Jurassic, 157-154 million years ago",
+      "name": "Tuojiangosaurus",
+      "nameMeaning": "'Tuo River lizard'",
+      "namedBy": "Dong, Li, Zhou and Zhang (1973)",
+      "pronunciation": "too-YANG-oh-sore-us",
+      "species": "multispinus",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Thyreophora, Stegosauria, Stegosauridae, Stegosaurinae",
+      "type": " armoured dinosaur",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "Mongolia"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 75-72 million years ago",
+      "name": "Tylocephale",
+      "nameMeaning": "'swelling head'",
+      "namedBy": "Marya\u0144ska and Osm\u00f3lska (1974)",
+      "pronunciation": "tie-loh-keff-ah-lee",
+      "species": "gilmorei",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Cerapoda, Marginocephalia, Pachycephalosauria, Goyocephala, Homalocephaloidea, Pachycephalosauridae",
+      "type": " euornithopod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "carnivorous"
+      ],
+      "foundIn": [
+        "Canada",
+        "USA"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 68-66 million years ago",
+      "name": "Tyrannosaurus",
+      "nameMeaning": "'tyrant lizard'",
+      "namedBy": "Osborn (1905)",
+      "pronunciation": "tie-RAN-oh-sore-us",
+      "species": "rex",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Coelurosauria, Tyrannoraptora, Tyrannosauroidea, Tyrannosauridae, Tyrannosaurinae",
+      "type": " large theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "Mongolia"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 81-75 million years ago",
+      "name": "Udanoceratops",
+      "nameMeaning": "'Udan [Sayr] horned face'",
+      "namedBy": "Kurzanov (1992)",
+      "pronunciation": "oo-dahn-oh-serra-tops",
+      "species": "tschizhovi",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Cerapoda, Marginocephalia, Ceratopsia, Neoceratopsia",
+      "type": " ceratopsian",
+      "weight": null
+    },
+    {
+      "diet": [
+        "carnivorous"
+      ],
+      "foundIn": [
+        "Argentina"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 94-86 million years ago",
+      "name": "Unenlagia",
+      "nameMeaning": "'half bird'",
+      "namedBy": "Novas and Puerta (1997)",
+      "pronunciation": "oon-en-lahg-ee-ah",
+      "species": "comahuensis",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Coelurosauria, Tyrannoraptora, Maniraptoriformes, Maniraptora, Paraves, Eumaniraptora, Dromaeosauridae",
+      "type": " small theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "carnivorous"
+      ],
+      "foundIn": [
+        "Uzbekistan"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 95 million years ago",
+      "name": "Urbacodon",
+      "nameMeaning": "'URBAC tooth'",
+      "namedBy": "Averianov and Sues (2007)",
+      "pronunciation": "urb-ah-ko-don",
+      "species": "itemirensis",
+      "taxonomy": "Dinosauria, Saurischia",
+      "type": " small theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "carnivorous"
+      ],
+      "foundIn": [
+        "USA"
+      ],
+      "length": null,
+      "live": "Early Cretaceous, 112-100 million years ago",
+      "name": "Utahraptor",
+      "nameMeaning": "'Utah plunderer'",
+      "namedBy": "Kirkland, Gaston and Burge (1993)",
+      "pronunciation": "YOO-tah-RAP-tor",
+      "species": "ostrommaysorum",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Coelurosauria, Tyrannoraptora, Maniraptoriformes, Maniraptora, Paraves, Eumaniraptora, Dromaeosauridae",
+      "type": " large theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "England",
+        "Niger",
+        "Romania",
+        "United Kingdom"
+      ],
+      "length": null,
+      "live": "Early Cretaceous, 142-121 million years ago",
+      "name": "Valdosaurus",
+      "nameMeaning": "'Wealden lizard'",
+      "namedBy": "Galton (1975)",
+      "pronunciation": "val-doh-sore-us",
+      "species": "canaliculatus",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Cerapoda, Ornithopoda, Euornithopoda, Iguanadontia, Euiguanadontia, Dryomorpha, Dryosauridae",
+      "type": " euornithopod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "carnivorous"
+      ],
+      "foundIn": [
+        "Mongolia"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 74-70 million years ago",
+      "name": "Velociraptor",
+      "nameMeaning": "'quick plunderer'",
+      "namedBy": "Osborn (1924)",
+      "pronunciation": "vel-OSS-ee-rap-tor",
+      "species": "mongoliensis",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Coelurosauria, Tyrannoraptora, Maniraptoriformes, Maniraptora, Paraves, Eumaniraptora, Dromaeosauridae",
+      "type": " small theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "Zimbabwe"
+      ],
+      "length": null,
+      "live": "Early Jurassic, 205-202 million years ago",
+      "name": "Vulcanodon",
+      "nameMeaning": "'volcano tooth'",
+      "namedBy": "Raath (1972)",
+      "pronunciation": "vul-kan-oh-don",
+      "species": "karibaensis",
+      "taxonomy": "Dinosauria, Saurischia, Sauropodomorpha, Sauropoda, Vulcanodontidae",
+      "type": " sauropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "China"
+      ],
+      "length": null,
+      "live": "Mid Jurassic, 169-159 million years ago",
+      "name": "Yandusaurus",
+      "nameMeaning": "'Yandu lizard'",
+      "namedBy": "He (1979)",
+      "pronunciation": "yen-doo-sore-us",
+      "species": "hongheensis",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Cerapoda, Ornithopoda, Euornithopoda",
+      "type": " euornithopod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "carnivorous"
+      ],
+      "foundIn": [
+        "China"
+      ],
+      "length": null,
+      "live": "Late Jurassic, 160-144 million years ago",
+      "name": "Yangchuanosaurus",
+      "nameMeaning": "'Yangchuan lizard'",
+      "namedBy": "Dong, Chang, Li and Zhou (1978)",
+      "pronunciation": "yang-choo-AHN-oh-SORE-us",
+      "species": "shangyouensis",
+      "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Carnosauria, Allosauroidea, Sinraptoridae",
+      "type": " large theropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "China"
+      ],
+      "length": null,
+      "live": "Early Jurassic, 195-190 million years ago",
+      "name": "Yimenosaurus",
+      "nameMeaning": "'Yimen lizard'",
+      "namedBy": "Bai, Yang and Wang (1990)",
+      "pronunciation": "yee-muhn-oh-sore-us",
+      "species": "youngi",
+      "taxonomy": "Dinosauria, Saurischia, Sauropodomorpha, Prosauropoda",
+      "type": " sauropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "China"
+      ],
+      "length": null,
+      "live": "Late Jurassic, 159-142 million years ago",
+      "name": "Yingshanosaurus",
+      "nameMeaning": "'Mt. Ying lizard'",
+      "namedBy": "Watanabe (1992)",
+      "pronunciation": "ying-shan-oh-sore-us",
+      "species": "jichuanensis",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Thyreophora, Stegosauria",
+      "type": " armoured dinosaur",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "China"
+      ],
+      "length": null,
+      "live": "Mid Jurassic, 159-154 million years ago",
+      "name": "Yinlong",
+      "nameMeaning": "'hidden dragon'",
+      "namedBy": "Xu, Forster, Clark and Mo (2006)",
+      "pronunciation": "yin-long",
+      "species": "downsi",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Cerapoda, Marginocephalia, Ceratopsia",
+      "type": " ceratopsian",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "China"
+      ],
+      "length": null,
+      "live": "Mid Jurassic, 180-159 million years ago",
+      "name": "Yuanmousaurus",
+      "nameMeaning": "'Yuanmou (area where the type locality is) lizard'",
+      "namedBy": "L\u00fc, Li, Ji, Wang, Zhang and Dong (2006)",
+      "pronunciation": "ywahn-moo-sore-us",
+      "species": "jiangyiensis",
+      "taxonomy": "Dinosauria, Saurischia, Sauropodomorpha, Sauropoda, Eusauropoda",
+      "type": " sauropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "omnivorous"
+      ],
+      "foundIn": [
+        "China"
+      ],
+      "length": null,
+      "live": "Early Jurassic, 205-190 million years ago",
+      "name": "Yunnanosaurus",
+      "nameMeaning": "'Yunnan lizard'",
+      "namedBy": "Young (1942)",
+      "pronunciation": "yoo-nahn-oh-sore-us",
+      "species": "huangi",
+      "taxonomy": "Dinosauria, Saurischia, Sauropodomorpha, Prosauropoda, Plateosauria",
+      "type": " sauropod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "Romania"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 69 million years ago",
+      "name": "Zalmoxes",
+      "nameMeaning": "'Zalmoxes (Dacian deity)'",
+      "namedBy": "Nopcsa (1902)",
+      "pronunciation": "zal-moks-eez",
+      "species": "robustus",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Cerapoda, Ornithopoda, Euornithopoda, Iguanadontia, Rhabdodontidae",
+      "type": " euornithopod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "USA"
+      ],
+      "length": null,
+      "live": "Early Cretaceous, 120-110 million years ago",
+      "name": "Zephyrosaurus",
+      "nameMeaning": "'west wind lizard'",
+      "namedBy": "Sues (1980)",
+      "pronunciation": "ZEF-ear-ro-SORE-us",
+      "species": "schaffi",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Cerapoda, Ornithopoda, Euornithopoda",
+      "type": " euornithopod",
+      "weight": null
+    },
+    {
+      "diet": [
+        "herbivorous"
+      ],
+      "foundIn": [
+        "USA"
+      ],
+      "length": null,
+      "live": "Late Cretaceous, 94-89 million years ago",
+      "name": "Zuniceratops",
+      "nameMeaning": "'Meaning of name'",
+      "namedBy": "Wolfe and Kirkland (1998)",
+      "pronunciation": "zoo-nee-serra-tops.",
+      "species": "christopheri",
+      "taxonomy": "Dinosauria, Ornithischia, Genasauria, Cerapoda, Marginocephalia, Ceratopsia, Neoceratopsia, Coronosauria",
+      "type": " ceratopsian",
+      "weight": null
+    }
+  ]
+}
